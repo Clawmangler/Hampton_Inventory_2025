@@ -1,302 +1,304 @@
-spec,description,category,section_note,area,room_type_quantities,attic_stock,total,uom,notes,source_page,item_id,vendor,model,part_number,unit_cost,warranty_months,warranty_start,warranty_end,installed_date,last_replaced,on_hand,min_on_hand,storage_location,link,image_urls,tags
-GR-100,"Full Sofa Sleeper @ Guestroom (68""W)",SEATING,,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4, 'ID-413': 1}",,43.0,EA,,1,GR-100-01-p01,,,,,,,,,,,,,,[],[]
-GR-101,Upholstered Task Chair at Desk,SEATING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,133.0,EA,,1,GR-101-01-p01,,,,,,,,,,,,,,[],[]
-GR-102,"Guestroom Lounge Chair (28""W x 32""D x 37""H)",SEATING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",,63.0,EA,,1,GR-102-01-p01,,,,,,,,,,,,,,[],[]
-GR-103,Guestroom Armless Side Chair,SEATING,,Guestrooms,"{'ID-402': 64, 'ID-403': 5, 'ID-413': 2}",,71.0,EA,,1,GR-103-01-p01,,,,,,,,,,,,,,[],[]
-GR-100F,COM at Sofa,SEATING,,Guestrooms,{},,452.0,YDS,Santiago - Mermaid,1,GR-100F-01-p01,,,,,,,,,,,,,,[],[]
-GR-101F,COM Fabric at Task Chair (Bleach Cleanable),SEATING,,Guestrooms,{},,505.0,YDS,Array - Calypso,1,GR-101F-01-p01,,,,,,,,,,,,,,[],[]
-GR-102F,COM Fabric at Lounge Chair,SEATING,,Guestrooms,{},,252.0,YDS,Spangle - Firefly,1,GR-102F-01-p01,,,,,,,,,,,,,,[],[]
-GR-103F,COM Fabric at Side Chair,SEATING,,Guestrooms,{},,121.0,YDS,Spangle - Firefly,1,GR-103F-01-p01,,,,,,,,,,,,,,[],[]
-GR-200,King Table Lamp - Matte Black Ceramic,LIGHTING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-413': 1}",1.0,56.0,EA,,1,GR-200-01-p01,,,,,,,,,,,,,,[],[]
-GR-200B,9W LED Bulbs at King Table Lamp - 1 per,LIGHTING,,Guestrooms,{},5.0,60.0,EA,,1,GR-200B-01-p01,,,,,,,,,,,,,,[],[]
-GR-200S,Attic Stock Lampshades for King Table Lamp,LIGHTING,,Guestrooms,{},,10.0,EA,,1,GR-200S-01-p01,,,,,,,,,,,,,,[],[]
-GR-201,"Queen Headboard Sconce - LED integrated (plug-in with 20""L cordcover)",LIGHTING,,Guestrooms,"{'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,79.0,EA,,1,GR-201-01-p01,,,,,,,,,,,,,,[],[]
-GR-202,"King Headboard Sconce - LED integrated (plug-in with 20""L cordcover)",LIGHTING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1}",1.0,55.0,EA,,1,GR-202-01-p01,,,,,,,,,,,,,,[],[]
-GR-203,"Guestroom Floor Lamp (with 3 Heads) - 68""H",LIGHTING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,133.0,EA,,1,GR-203-01-p01,,,,,,,,,,,,,,[],[]
-GR-203B,"11W LED Bulb at Floor Lamp (E26, 2700K) - 3 per",LIGHTING,,Guestrooms,{},14.0,410.0,EA,,1,GR-203B-01-p01,,,,,,,,,,,,,,[],[]
-GR-204,"Vanity Light, 36""W - 20W LED integrated lamping - HARDWIRED",LIGHTING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,133.0,EA,,1,GR-204-01-p01,,,,,,,,,,,,,,[],[]
-GR-205,Desk Task Lamp - 7W LED integrated panel at pivoting head,LIGHTING,,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4}",1.0,43.0,EA,,1,GR-205-01-p01,,,,,,,,,,,,,,[],[]
-GR-250,"Flush mount Ceiling Light at Guest Entry - 15""Dia. - HARDWIRED",LIGHTING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 4, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 6, 'ID-413': 1}",1.0,138.0,EA,,1,GR-250-01-p01,,,,,,,,,,,,,,[],[]
-GR-251,"Flush mount Ceiling Light at Guest Bath - 15""Dia. - HARDWIRED",LIGHTING,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 40, 'ID-409': 10, 'ID-407': 16, 'ID-408': 8, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 8, 'ID-411': 3, 'ID-413': 1}",1.0,174.0,EA,,1,GR-251-01-p01,,,,,,,,,,,,,,[],[]
-GR-251B,"9W LED Bulbs at Ceiling Fixtures (E26, 2700K) - 2 per",LIGHTING,,Guestrooms,{},10.0,630.0,EA,,1,GR-251B-01-p01,,,,,,,,,,,,,,[],[]
-GR-300,"King Headboard with 2 layered Upholstered Panels - 83""W x 41""H",CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1}",,54.0,EA,"Specified Vinyl Included @ Lower Panel: Logan - Harbor; Upper Panel
-Fabric Included: MLSB Accra Navy",1,GR-300-01-p01,,,,,,,,,,,,,,[],[]
-GR-301,"Queen Headboard with 2 layered Upholstered Panels - 67""W x 41""H",CASEGOODS,,Guestrooms,"{'ID-402': 128, 'ID-403': 10, 'ID-404': 2, 'ID-406': 8, 'ID-411': 6, 'ID-413': 2}",,156.0,EA,"Specified Vinyl Included @ Lower Panel: Logan - Harbor; Upper Panel
-Fabric Included: MLSB Accra Navy",1,GR-301-01-p01,,,,,,,,,,,,,,[],[]
-GR-302,"King Left Nightstand with Power Unit and Lower Door and upper Open Cubby -
-22""W",CASEGOODS,,Guestrooms,"{'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1}",,40.0,EA,,1,GR-302-01-p01,,,,,,,,,,,,,,[],[]
-GR-303,"King Right Nightstand with Power Unit and Lower Door and upper Open Cubby -
-22""W",CASEGOODS,,Guestrooms,"{'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1}",,40.0,EA,,1,GR-303-01-p01,,,,,,,,,,,,,,[],[]
-GR-354,"King Left Nightstand with Power Unit and Lower Door and upper Open Cubby -
-18""W",CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-401': 4}",,14.0,EA,,1,GR-354-01-p01,,,,,,,,,,,,,,[],[]
-GR-355,"King Right Nightstand with Power Unit and Lower Door and upper Open Cubby -
-18""W",CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-401': 4}",,14.0,EA,,1,GR-355-01-p01,,,,,,,,,,,,,,[],[]
-GR-304,"Queen Center Nightstand with (2) Power Units and Lower Door and upper Open
-Cubby - 24""W",CASEGOODS,,Guestrooms,"{'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",,78.0,EA,,1,GR-304-01-p01,,,,,,,,,,,,,,[],[]
-GR-305,"King Platform Bed Base - 76""W x 82""L x 14""H",CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4}",,51.0,EA,,1,GR-305-01-p01,,,,,,,,,,,,,,[],[]
-GR-306,"Queen Platform Bed Base - 60""W x 82""L x 14""H",CASEGOODS,,Guestrooms,"{'ID-402': 128, 'ID-403': 10, 'ID-404': 2, 'ID-406': 8}",,148.0,EA,,1,GR-306-01-p01,,,,,,,,,,,,,,[],[]
-GR-307,"Hospitality Unit with Open Cubby for Microwave and 1-Door Cabinet for Mini-
-Fridge and Integrated Power Hub - 68""W - 25""OAD",CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-401': 4}",,14.0,EA,"5 Right, 9 Left; MODIFIED OAD TO ACCOMMODATE EXISTING MINI-
-FRIDGE APPLIANCE: 17""W x 25""H x 22""D",1,GR-307-01-p01,,,,,,,,,,,,,,[],[]
-GR-309,"Activity Table - 34""Dia.",CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4}",,125.0,EA,,1,GR-309-01-p01,,,,,,,,,,,,,,[],[]
-GR-309ADA,"Accessible Activity Table with 3 Legs - 40""Dia.",CASEGOODS,,Guestrooms,"{'ID-410': 2, 'ID-412': 1, 'ID-411': 3, 'ID-413': 1}",,7.0,EA,,1,GR-309ADA-01-p01,,,,,,,,,,,,,,[],[]
-GR-310,"TV Panel with cutout for wall mount - 34""W x 24""H",CASEGOODS,,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4}",,42.0,EA,,1,GR-310-01-p01,,,,,,,,,,,,,,[],[]
-GR-311,"Entry Wall Hooks Panel - 20""W x 3""D x 3.5""H",CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",4.0,132.0,EA,,1,GR-311-01-p01,,,,,,,,,,,,,,[],[]
-GR-312,"Studio Suite Cantilivered/Floating Wall Shelf - 60""W x 10""D",CASEGOODS,,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4}",,42.0,EA,,1,GR-312-01-p01,,,,,,,,,,,,,,[],[]
-GR-313,C-Table at Studios (Black Metal Base with HPL inset top),CASEGOODS,,Guestrooms,"{'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4, 'ID-413': 1}",,45.0,EA,,1,GR-313-01-p01,,,,,,,,,,,,,,[],[]
-GR-356,"Hospitality Unit with Open Cubby for Microwave, 1-Door Cabinet for Mini-Fridge,
-Integrated Power Hub, and Integrated Luggage Bench - 87""W",CASEGOODS,,Guestrooms,"{'ID-410': 2, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-411': 3}",,75.0,EA,"37 Right, 38 Left - Existing Fridge = 17”W x 25”H x 22”D // Existing
-Microwave: 18""W x 11""H x 12.5""D",1,GR-356-01-p01,,,,,,,,,,,,,,[],[]
-GR-359,"Luggage Bench with Slatted Screen Wall Back and Side Panel and Hanging hooks, 1
-Bottom Drawer - 37.75""W x 84""H",CASEGOODS,,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4}",,42.0,EA,"21 Lefts, 21 Rights",2,GR-359-01-p02,,,,,,,,,,,,,,[],[]
-GR-360,Luggage Bench w/ Back Panel and 3 Hooks at King/King EXT/ADA QQ RIS,CASEGOODS,,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-413': 1}",,15.0,EA,,2,GR-360-01-p02,,,,,,,,,,,,,,[],[]
-GR-364,Freestanding Towel Caddy at King ADA Studio,CASEGOODS,,Guestrooms,{'ID-412': 1},,1.0,EA,,2,GR-364-01-p02,,,,,,,,,,,,,,[],[]
-GR-370C,"Storage Unit at QQ ADA RIS Room Type - 2 Drawers, open shelf - 46""W",CASEGOODS,,Guestrooms,{'ID-413': 1},,1.0,EA,,2,GR-370C-01-p02,,,,,,,,,,,,,,[],[]
-GR-317,"Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W Towel
-Bars at Front Apron, Base: Legs are Metal with Towel Shelf - 61.25""W",CASEGOODS,,Guestrooms,{},,65.0,EA,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
-TYPE/SIZE - Vendor will include 2 vanity sets at no charge",2,GR-317-01-p02,,,,,,,,,,,,,,[],[]
-GR-316,"Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W Towel
-Bars at Front Apron, Base: Legs are Metal with Towel Shelf - 58""W",CASEGOODS,,Guestrooms,{},,58.0,EA,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
-TYPE/SIZE - Vendor will include 1 vanity set at no charge",2,GR-316-01-p02,,,,,,,,,,,,,,[],[]
-GR-316B,"56""W Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W
-Towel Bars at Front Apron, Base: Legs are Metal - ROOM #128",CASEGOODS,,Guestrooms,{},,1.0,EA,,2,GR-316B-01-p02,,,,,,,,,,,,,,[],[]
-GR-317B,"66""W Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W
-Towel Bars at Front Apron, Base: Legs are Metal - ROOM #134",CASEGOODS,,Guestrooms,{},,1.0,EA,,2,GR-317B-01-p02,,,,,,,,,,,,,,[],[]
-GR-316ADA,"58.5""W Vanity with Quartz Top, Centered Sink Cutout, 4""H Backsplah and (2) 12""
+area,zone,category,spec,description,total,uom,attic_stock,notes,section,section_note,room_type_quantities,source_page,item_id,vendor,model,part_number,unit_cost,warranty_months,warranty_start,warranty_end,installed_date,last_replaced,on_hand,min_on_hand,storage_location,link,image_urls,tags
+Guestrooms,Guestroom,Seating,GR-100,"Full Sofa Sleeper @ Guestroom (68""W)",43.0,EA,,,SEATING,,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4, ""ID-413"": 1}",1,GR-100-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-101,Upholstered Task Chair at Desk,133.0,EA,1.0,,SEATING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",1,GR-101-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-102,"Guestroom Lounge Chair (28""W x 32""D x 37""H)",63.0,EA,,,SEATING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",1,GR-102-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-103,Guestroom Armless Side Chair,71.0,EA,,,SEATING,,"{""ID-402"": 64, ""ID-403"": 5, ""ID-413"": 2}",1,GR-103-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-100F,COM at Sofa,452.0,YDS,,Santiago - Mermaid,SEATING,,{},1,GR-100F-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-101F,COM Fabric at Task Chair (Bleach Cleanable),505.0,YDS,,Array - Calypso,SEATING,,{},1,GR-101F-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-102F,COM Fabric at Lounge Chair,252.0,YDS,,Spangle - Firefly,SEATING,,{},1,GR-102F-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-103F,COM Fabric at Side Chair,121.0,YDS,,Spangle - Firefly,SEATING,,{},1,GR-103F-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-200,King Table Lamp - Matte Black Ceramic,56.0,EA,1.0,,LIGHTING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-413"": 1}",1,GR-200-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-200B,9W LED Bulbs at King Table Lamp - 1 per,60.0,EA,5.0,,LIGHTING,,{},1,GR-200B-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-200S,Attic Stock Lampshades for King Table Lamp,10.0,EA,,,LIGHTING,,{},1,GR-200S-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Lighting,GR-201,"Queen Headboard Sconce - LED integrated (plug-in with 20""L cordcover)",79.0,EA,1.0,,LIGHTING,,"{""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",1,GR-201-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Lighting,GR-202,"King Headboard Sconce - LED integrated (plug-in with 20""L cordcover)",55.0,EA,1.0,,LIGHTING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1}",1,GR-202-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Lighting,GR-203,"Guestroom Floor Lamp (with 3 Heads) - 68""H",133.0,EA,1.0,,LIGHTING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",1,GR-203-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Lighting,GR-203B,"11W LED Bulb at Floor Lamp (E26, 2700K) - 3 per",410.0,EA,14.0,,LIGHTING,,{},1,GR-203B-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Lighting,GR-204,"Vanity Light, 36""W - 20W LED integrated lamping - HARDWIRED",133.0,EA,1.0,,LIGHTING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",1,GR-204-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-205,Desk Task Lamp - 7W LED integrated panel at pivoting head,43.0,EA,1.0,,LIGHTING,,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4}",1,GR-205-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Entry,Lighting,GR-250,"Flush mount Ceiling Light at Guest Entry - 15""Dia. - HARDWIRED",138.0,EA,1.0,,LIGHTING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 4, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 6, ""ID-413"": 1}",1,GR-250-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Lighting,GR-251,"Flush mount Ceiling Light at Guest Bath - 15""Dia. - HARDWIRED",174.0,EA,1.0,,LIGHTING,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 40, ""ID-409"": 10, ""ID-407"": 16, ""ID-408"": 8, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 8, ""ID-411"": 3, ""ID-413"": 1}",1,GR-251-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Lighting,GR-251B,"9W LED Bulbs at Ceiling Fixtures (E26, 2700K) - 2 per",630.0,EA,10.0,,LIGHTING,,{},1,GR-251B-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-300,"King Headboard with 2 layered Upholstered Panels - 83""W x 41""H",54.0,EA,,"Specified Vinyl Included @ Lower Panel: Logan - Harbor; Upper Panel
+Fabric Included: MLSB Accra Navy",CASEGOODS,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1}",1,GR-300-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-301,"Queen Headboard with 2 layered Upholstered Panels - 67""W x 41""H",156.0,EA,,"Specified Vinyl Included @ Lower Panel: Logan - Harbor; Upper Panel
+Fabric Included: MLSB Accra Navy",CASEGOODS,,"{""ID-402"": 128, ""ID-403"": 10, ""ID-404"": 2, ""ID-406"": 8, ""ID-411"": 6, ""ID-413"": 2}",1,GR-301-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-302,"King Left Nightstand with Power Unit and Lower Door and upper Open Cubby -
+22""W",40.0,EA,,,CASEGOODS,,"{""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1}",1,GR-302-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-303,"King Right Nightstand with Power Unit and Lower Door and upper Open Cubby -
+22""W",40.0,EA,,,CASEGOODS,,"{""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1}",1,GR-303-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-354,"King Left Nightstand with Power Unit and Lower Door and upper Open Cubby -
+18""W",14.0,EA,,,CASEGOODS,,"{""ID-400"": 10, ""ID-401"": 4}",1,GR-354-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-355,"King Right Nightstand with Power Unit and Lower Door and upper Open Cubby -
+18""W",14.0,EA,,,CASEGOODS,,"{""ID-400"": 10, ""ID-401"": 4}",1,GR-355-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-304,"Queen Center Nightstand with (2) Power Units and Lower Door and upper Open
+Cubby - 24""W",78.0,EA,,,CASEGOODS,,"{""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",1,GR-304-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-305,"King Platform Bed Base - 76""W x 82""L x 14""H",51.0,EA,,,CASEGOODS,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4}",1,GR-305-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-306,"Queen Platform Bed Base - 60""W x 82""L x 14""H",148.0,EA,,,CASEGOODS,,"{""ID-402"": 128, ""ID-403"": 10, ""ID-404"": 2, ""ID-406"": 8}",1,GR-306-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-307,"Hospitality Unit with Open Cubby for Microwave and 1-Door Cabinet for Mini-
+Fridge and Integrated Power Hub - 68""W - 25""OAD",14.0,EA,,"5 Right, 9 Left; MODIFIED OAD TO ACCOMMODATE EXISTING MINI-
+FRIDGE APPLIANCE: 17""W x 25""H x 22""D",CASEGOODS,,"{""ID-400"": 10, ""ID-401"": 4}",1,GR-307-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-309,"Activity Table - 34""Dia.",125.0,EA,,,CASEGOODS,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4}",1,GR-309-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-309ADA,"Accessible Activity Table with 3 Legs - 40""Dia.",7.0,EA,,,CASEGOODS,,"{""ID-410"": 2, ""ID-412"": 1, ""ID-411"": 3, ""ID-413"": 1}",1,GR-309ADA-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-310,"TV Panel with cutout for wall mount - 34""W x 24""H",42.0,EA,,,CASEGOODS,,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4}",1,GR-310-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Entry,Toilet Accessories,GR-311,"Entry Wall Hooks Panel - 20""W x 3""D x 3.5""H",132.0,EA,4.0,,CASEGOODS,,"{""ID-400"": 10, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",1,GR-311-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-312,"Studio Suite Cantilivered/Floating Wall Shelf - 60""W x 10""D",42.0,EA,,,CASEGOODS,,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4}",1,GR-312-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-313,C-Table at Studios (Black Metal Base with HPL inset top),45.0,EA,,,CASEGOODS,,"{""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4, ""ID-413"": 1}",1,GR-313-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Seating,GR-356,"Hospitality Unit with Open Cubby for Microwave, 1-Door Cabinet for Mini-Fridge,
+Integrated Power Hub, and Integrated Luggage Bench - 87""W",75.0,EA,,"37 Right, 38 Left - Existing Fridge = 17”W x 25”H x 22”D // Existing
+Microwave: 18""W x 11""H x 12.5""D",CASEGOODS,,"{""ID-410"": 2, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-411"": 3}",1,GR-356-01-p01,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Toilet Accessories,GR-359,"Luggage Bench with Slatted Screen Wall Back and Side Panel and Hanging hooks, 1
+Bottom Drawer - 37.75""W x 84""H",42.0,EA,,"21 Lefts, 21 Rights",CASEGOODS,,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4}",2,GR-359-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Toilet Accessories,GR-360,Luggage Bench w/ Back Panel and 3 Hooks at King/King EXT/ADA QQ RIS,15.0,EA,,,CASEGOODS,,"{""ID-400"": 10, ""ID-401"": 4, ""ID-413"": 1}",2,GR-360-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Toilet Accessories,GR-364,Freestanding Towel Caddy at King ADA Studio,1.0,EA,,,CASEGOODS,,"{""ID-412"": 1}",2,GR-364-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-370C,"Storage Unit at QQ ADA RIS Room Type - 2 Drawers, open shelf - 46""W",1.0,EA,,,CASEGOODS,,"{""ID-413"": 1}",2,GR-370C-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-317,"Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W Towel
+Bars at Front Apron, Base: Legs are Metal with Towel Shelf - 61.25""W",65.0,EA,,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
+TYPE/SIZE - Vendor will include 2 vanity sets at no charge",CASEGOODS,,{},2,GR-317-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-316,"Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W Towel
+Bars at Front Apron, Base: Legs are Metal with Towel Shelf - 58""W",58.0,EA,,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
+TYPE/SIZE - Vendor will include 1 vanity set at no charge",CASEGOODS,,{},2,GR-316-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-316B,"56""W Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W
+Towel Bars at Front Apron, Base: Legs are Metal - ROOM #128",1.0,EA,,,CASEGOODS,,{},2,GR-316B-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-317B,"66""W Vanity with Quartz Top, Centered Sink cutout, 4""H Backsplash and (2) 12""W
+Towel Bars at Front Apron, Base: Legs are Metal - ROOM #134",1.0,EA,,,CASEGOODS,,{},2,GR-317B-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-316ADA,"58.5""W Vanity with Quartz Top, Centered Sink Cutout, 4""H Backsplah and (2) 12""
 Towel Bars at Front Apron, (2) L/R Open Cubbies and Slanted Front Access Panel -
-ROOM #414",CASEGOODS,,Guestrooms,{},,1.0,EA,,2,GR-316ADA-01-p02,,,,,,,,,,,,,,[],[]
-GR-361ADA,"ADA Vanity with Quartz Top, Offset Sink cutout, 4""H Backsplash and (1) 12""W Towel
+ROOM #414",1.0,EA,,,CASEGOODS,,{},2,GR-316ADA-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-361ADA,"ADA Vanity with Quartz Top, Offset Sink cutout, 4""H Backsplash and (1) 12""W Towel
 Bar at Front Apron, Base: Legs are Metal with (1) Open Cubby opposite sink side and
-angled front Panel - 49.5""W (ROOM #s 208, 308, 314, 408)",CASEGOODS,,Guestrooms,{},,4.0,EA,,2,GR-361ADA-01-p02,,,,,,,,,,,,,,[],[]
-GR-361BADA,"ADA Vanity with Quartz Top, Offset Sink cutout, 4""H Backsplash + 1 Side Splash, and
+angled front Panel - 49.5""W (ROOM #s 208, 308, 314, 408)",4.0,EA,,,CASEGOODS,,{},2,GR-361ADA-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-361BADA,"ADA Vanity with Quartz Top, Offset Sink cutout, 4""H Backsplash + 1 Side Splash, and
 (1) 12""W Towel Bar at Front Apron, Base: Legs are Metal with (1) Open Cubby
-opposite sink side and angled front Panel - 49.5""W (ROOM #132)",CASEGOODS,,Guestrooms,{},,1.0,EA,,2,GR-361BADA-01-p02,,,,,,,,,,,,,,[],[]
-GR-316BADA,"66""W Vanity with Quartz Top, Centered Sink Cutout, 4""H Backsplah and (2) 12""
+opposite sink side and angled front Panel - 49.5""W (ROOM #132)",1.0,EA,,,CASEGOODS,,{},2,GR-361BADA-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,GR-316BADA,"66""W Vanity with Quartz Top, Centered Sink Cutout, 4""H Backsplah and (2) 12""
 Towel Bars at Front Apron, (2) L/R Open Cubbies and Slanted Front Access Panel -
-ROOM #211",CASEGOODS,,Guestrooms,{},,1.0,EA,,2,GR-316BADA-01-p02,,,,,,,,,,,,,,[],[]
-LEFT SINK,"Studio Suite Wet Bar Cabinetry with Quartz Top - 76.5""W - with 4""H Backsplash and
+ROOM #211",1.0,EA,,,CASEGOODS,,{},2,GR-316BADA-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Misc,LEFT SINK,"Studio Suite Wet Bar Cabinetry with Quartz Top - 76.5""W - with 4""H Backsplash and
 (2) Side Splashes, Offset Sink cutout - 3 Drawers in Base Cabinetry + 1 open cubby
-for microwave and 2 drawers",CASEGOODS,,Guestrooms,{},,21.0,SET,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
-TYPE/SIZE - Vendor will include 1 set at no charge",2,LEFT SINK-01-p02,,,,,,,,,,,,,,[],[]
-RIGHT SINK,"Studio Suite Wet Bar Cabinetry with Quartz Top - 76.5""W - with 4""H Backsplash and
+for microwave and 2 drawers",21.0,SET,,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
+TYPE/SIZE - Vendor will include 1 set at no charge",CASEGOODS,,{},2,LEFT SINK-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Misc,RIGHT SINK,"Studio Suite Wet Bar Cabinetry with Quartz Top - 76.5""W - with 4""H Backsplash and
 (2) Side Splashes, Offset Sink cutout - 3 Drawers in Base Cabinetry + 1 open cubby
-for microwave and 2 drawers",CASEGOODS,,Guestrooms,{},,19.0,SET,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
-TYPE/SIZE",2,RIGHT SINK-01-p02,,,,,,,,,,,,,,[],[]
-RM #436,"Studio Suite Wet Bar Cabinetry with Quartz Top - 70-5/8""W - with 4""H Backsplash
+for microwave and 2 drawers",19.0,SET,,"REFER TO SHOP DRAWINGS FOR ROOM #s USING THIS VANITY
+TYPE/SIZE",CASEGOODS,,{},2,RIGHT SINK-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Misc,RM #436,"Studio Suite Wet Bar Cabinetry with Quartz Top - 70-5/8""W - with 4""H Backsplash
 and (2) Side Splashes, Offset Sink cutout - 3 Doors in Base Cabinetry + 1 open
-cubby for microwave and 2 drawers",CASEGOODS,,Guestrooms,{},,1.0,SET,,2,RM #436-01-p02,,,,,,,,,,,,,,[],[]
-RM #211,"Studio Suite Wet Bar Cabinetry with Quartz Top - 77.75""W - with 4""H Backsplash
+cubby for microwave and 2 drawers",1.0,SET,,,CASEGOODS,,{},2,RM #436-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Lighting,RM #211,"Studio Suite Wet Bar Cabinetry with Quartz Top - 77.75""W - with 4""H Backsplash
 and (2) Side Splashes, Offset Right Sink cutout - 4 Drawers in Base Cabinetry + 1
-Large Door Cabinet and Open Sink Area with ADA compliant Angled access panel",CASEGOODS,,Guestrooms,{},,1.0,SET,,2,RM #211-01-p02,,,,,,,,,,,,,,[],[]
-RM #132,"Studio Suite Wet Bar Cabinetry with Quartz Top - 86""W - with 4""H Backsplash and
+Large Door Cabinet and Open Sink Area with ADA compliant Angled access panel",1.0,SET,,,CASEGOODS,,{},2,RM #211-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Lighting,RM #132,"Studio Suite Wet Bar Cabinetry with Quartz Top - 86""W - with 4""H Backsplash and
 (2) Side Splashes, Offset Sink cutout - 4 Drawers in Base Cabinetry + 1 Large Door
-Cabinet and Open Sink Area with ADA compliant Angled access panel",CASEGOODS,,Guestrooms,{},,1.0,SET,,2,RM #132-01-p02,,,,,,,,,,,,,,[],[]
-GR-400,"Center Draw Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) - ceiling
+Cabinet and Open Sink Area with ADA compliant Angled access panel",1.0,SET,,,CASEGOODS,,{},2,RM #132-01-p02,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Paint,GR-400,"Center Draw Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) - ceiling
 mounted with painted wood cornice (extends 12"" past each window side) -
-hardware included: (4) batons, double architrac",WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF",Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1}",,84.0,EA,Specified fabrics are graded in,3,GR-400-01-p03,,,,,,,,,,,,,,[],[]
-GR-400ADA,"Center Draw Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) - ceiling
+hardware included: (4) batons, double architrac",84.0,EA,,Specified fabrics are graded in,WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF","{""ID-400"": 10, ""ID-401"": 4, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1}",3,GR-400-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Paint,GR-400ADA,"Center Draw Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) - ceiling
 mounted with painted wood cornice (extends 12"" past each window side) -
-hardware included: (4) ADA looped batons, double architrac",WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF",Guestrooms,"{'ID-410': 2, 'ID-411': 3, 'ID-413': 1}",,6.0,EA,Specified fabrics are graded in,3,GR-400ADA-01-p03,,,,,,,,,,,,,,[],[]
-GR-450,"One Way Dray Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) -
+hardware included: (4) ADA looped batons, double architrac",6.0,EA,,Specified fabrics are graded in,WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF","{""ID-410"": 2, ""ID-411"": 3, ""ID-413"": 1}",3,GR-400ADA-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Paint,GR-450,"One Way Dray Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) -
 ceiling mounted with painted wood cornice (extends 12"" past window on one side
-and 6"" past on the other) - hardware included: (2) batons, double architrac",WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF",Guestrooms,"{'ID-405': 40, 'ID-409': 10, 'ID-407': 16, 'ID-408': 8, 'ID-406': 8}",,82.0,EA,Specified fabrics are graded in,3,GR-450-01-p03,,,,,,,,,,,,,,[],[]
-GR-450ADA,"One Way Dray Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) -
+and 6"" past on the other) - hardware included: (2) batons, double architrac",82.0,EA,,Specified fabrics are graded in,WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF","{""ID-405"": 40, ""ID-409"": 10, ""ID-407"": 16, ""ID-408"": 8, ""ID-406"": 8}",3,GR-450-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Paint,GR-450ADA,"One Way Dray Sheer & Blackout (short/traversing - finishes 1/2"" above PTAC) -
 ceiling mounted with painted wood cornice (extends 12"" past window on one side
 and 6"" past on the other) - hardware included: (2) ADA looped batons, double
-architrac",WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF",Guestrooms,{'ID-412': 2},,2.0,EA,Specified fabrics are graded in,3,GR-450ADA-01-p03,,,,,,,,,,,,,,[],[]
-GR-500,Bedroom/Main Guestroom Artwork - SET OF 3 framed Prints,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,133.0,SET,,3,GR-500-01-p03,,,,,,,,,,,,,,[],[]
-GR-501,"Custom Regional Art at Guest Bath - Framed Print 19.75""W x 26.75""H",ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,133.0,EA,,3,GR-501-01-p03,,,,,,,,,,,,,,[],[]
-GR-502,"Full Length Guestroom Mirror - Sap Walnut Frame - 24""W x 67""H",ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,133.0,EA,,3,GR-502-01-p03,,,,,,,,,,,,,,[],[]
-GR-503,"Framed Vanity Mirror - 48""W x 36""H (Sap Oak Frame finish)",ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-413': 1}",1.0,127.0,EA,,3,GR-503-01-p03,,,,,,,,,,,,,,[],[]
-GR-550,"Artwork at Wet Bar in Studio Suites - 42""W x 30""H, framed print",ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4, 'ID-413': 1}",,43.0,EA,,3,GR-550-01-p03,,,,,,,,,,,,,,[],[]
-GR-551,"Artwork at Bedrooms - 36""W x 22""H, framed print",ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4, 'ID-413': 1}",,43.0,EA,,3,GR-551-01-p03,,,,,,,,,,,,,,[],[]
-GR-552,"Framed Vanity Mirror - 40""W x 36""H (Sap Oak Frame finish)",ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-410': 2, 'ID-412': 1, 'ID-411': 3}",,6.0,EA,,3,GR-552-01-p03,,,,,,,,,,,,,,[],[]
-GR-600,King Mattress ONLY - Mesmerize (1-sided) 76x80,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1}",,54.0,EA,,3,GR-600-01-p03,,,,,,,,,,,,,,[],[]
-GR-601,Queen Mattress ONLY - Mesmerize (1-sided) 60x80,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-402': 128, 'ID-403': 10, 'ID-404': 2, 'ID-406': 8, 'ID-411': 6, 'ID-413': 2}",,156.0,EA,,3,GR-601-01-p03,,,,,,,,,,,,,,[],[]
-GR-600ADA,"5.5""H Boxspring for King Mattress in ADA Rooms - 2 per required",BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-410': 4, 'ID-412': 2}",,6.0,EA,,3,GR-600ADA-01-p03,,,,,,,,,,,,,,[],[]
-GR-601ADA,"5.5""H Boxspring for Queen Mattress in ADA Rooms",BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-411': 6, 'ID-413': 2}",,8.0,EA,,3,GR-601ADA-01-p03,,,,,,,,,,,,,,[],[]
-ADA-6556BG,"ADA Bed Frame - Adjustable Size, fits Kings or Queens - 7.25""H",BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-410': 2, 'ID-412': 1, 'ID-411': 6, 'ID-413': 2}",,11.0,EA,,3,ADA-6556BG-01-p03,,,,,,,,,,,,,,[],[]
-GR-604ADA,"ADA King Bedskirt - 76""W x 80""L x 12.5""Drop",BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-410': 2, 'ID-412': 1}",1.0,4.0,EA,Fabric Included: Valeria - 03 Atlantic,3,GR-604ADA-01-p03,,,,,,,,,,,,,,[],[]
-GR-605ADA,"ADA Queen Bedskirt - 60""W x 80""L x 12.5""Drop",BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,Guestrooms,"{'ID-411': 6, 'ID-413': 2}",1.0,9.0,EA,Fabric Included: Valeria - 03 Atlantic,3,GR-605ADA-01-p03,,,,,,,,,,,,,,[],[]
-#2001 (P-02),Rectangular Undermount Sink,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,125.0,EA,Vendor will include 5 sinks at no charge in shipment,3,#2001 (P-02)-01-p03,,,,,,,,,,,,,,[],[]
-#2321 (P-03),ADA Rectangular Undermount Sink,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,11.0,EA,TOTAL QTY INCLUDES SINKS FOR PUBLIC RESTROOM VANITIES,3,#2321 (P-03)-01-p03,,,,,,,,,,,,,,[],[]
-P-12,Stainless Steel Wet Bar Sink,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,41.0,EA,,3,P-12-01-p03,,,,,,,,,,,,,,[],[]
-P-13,ADA Stainless Steel Wet Bar Sink - Elkay Model #EELUHAD121245,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,2.0,EA,,3,P-13-01-p03,,,,,,,,,,,,,,[],[]
-P-04,Vanity Faucet - Neo Single Lever,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,132.0,EA,,3,P-04-01-p03,,,,,,,,,,,,,,[],[]
-P-14,"Wet Bar Faucet - Kohler Cru, polished chrome (No pull-down)",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,43.0,EA,,3,P-14-01-p03,,,,,,,,,,,,,,[],[]
-T-01,"Floor Tile at Guest Bath/Entry - 12"" x 24""",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 1020, 'ID-401': 480, 'ID-410': 260, 'ID-405': 2580, 'ID-409': 640, 'ID-407': 976, 'ID-408': 560, 'ID-412': 130, 'ID-402': 5312, 'ID-403': 525, 'ID-404': 123, 'ID-406': 516, 'ID-411': 453, 'ID-413': 124}",,13701.1,SFT,Portfolio - Ash Grey #PF05 (17.02 SF per Carton),3,T-01-01-p03,,,,,,,,,,,,,,[],[]
-B-01,"Bullnose Tile Base at Guest Bath ONLY - 4""H x 24""L (entry recieves B-02)",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 130, 'ID-401': 52, 'ID-410': 28, 'ID-405': 360, 'ID-409': 135, 'ID-407': 200, 'ID-408': 108, 'ID-412': 11, 'ID-402': 640, 'ID-403': 40, 'ID-404': 10, 'ID-406': 84, 'ID-411': 36, 'ID-413': 13}",,1860.0,PC,Portfolio - Ash Grey #PF05 (10 pcs per Carton),3,B-01-01-p03,,,,,,,,,,,,,,[],[]
-B-02 (supplier C),"Vinyl Millwork Base at Guestroom/Guest Entry - 4.5""H - Oyster Color",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,255.0,CTN,48 LF per CTN - QTY per Seaming Diagram: 250 CTNs,4,B-02 (supplier C)-01-p04,,,,,,,,,,,,,,[],[]
-CP-01,"Guestroom Carpet Tile (24x24) with Attached Cushion/Pad Backing, MONOLITHIC
-INSTALL",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,4308.0,SYD,"QTY per Seaming Diagram: 4,208 SYDs",4,CP-01-01-p04,,,,,,,,,,,,,,[],[]
-B-02A,Adhesive for Vinyl Millwork Base - (TUBES),FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,25.0,CTN,,4,B-02A-01-p04,,,,,,,,,,,,,,[],[]
-CP-01A,"Adhesive for Carpet Tile Install - QTY COVERS PUBLIC SPACE TOO, 4GAL",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,74.0,EA,,4,CP-01A-01-p04,,,,,,,,,,,,,,[],[]
-TH-01,Vinyl Threshold at Guestroom Entry and Connecting Doors - BY GC,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,,,Provided by GC,4,TH-01-01-p04,,,,,,,,,,,,,,[],[]
-TS-01,Schluter Metal Edge Trim/Transition Strip - PROVIDED BY GC,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,,,Provided by GC,4,TS-01-01-p04,,,,,,,,,,,,,,[],[]
-WC-01,Accent Wallcovering at Headboard Wall,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 73, 'ID-401': 28, 'ID-410': 24, 'ID-405': 200, 'ID-409': 65, 'ID-407': 80, 'ID-408': 40, 'ID-412': 12, 'ID-402': 832, 'ID-403': 64, 'ID-404': 14, 'ID-406': 48, 'ID-411': 42, 'ID-413': 14}",,1620.0,LYD,"NA-KIN-203 (Estimated Takeoff QTY is 1,536 LYDs)",4,WC-01-01-p04,,,,,,,,,,,,,,[],[]
-VWC-02,Wallcovering at Guest Bath,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 180, 'ID-401': 88, 'ID-410': 36, 'ID-405': 460, 'ID-409': 170, 'ID-407': 248, 'ID-408': 136, 'ID-412': 15, 'ID-402': 1248, 'ID-403': 90, 'ID-404': 21, 'ID-406': 104, 'ID-411': 57, 'ID-413': 15}",,2910.0,LYD,"WG333134527 - Innvision Takeoff QTY: 2,868 LYDs",4,VWC-02-01-p04,,,,,,,,,,,,,,[],[]
-WP-01,"Corner Guard at Guestroom - 3/4""wings x 8'H - Color: Feather #0238",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 60, 'ID-409': 15, 'ID-407': 24, 'ID-408': 12, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 12, 'ID-411': 3, 'ID-413': 1}",,214.0,EA,,4,WP-01-01-p04,,,,,,,,,,,,,,[],[]
-WP-02,"Corner Guard at Guest Bath - 3/4""wings x 8'H - Color: 0101 Designer White",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 20, 'ID-401': 8, 'ID-412': 1, 'ID-413': 1}",,30.0,EA,,4,WP-02-01-p04,,,,,,,,,,,,,,[],[]
-TA-24,Guest Bath Robe/Towel Wall Hooks - Sky Blue Color (2 per bath),Adhesive for Corner Guards Installation,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 20, 'ID-401': 8, 'ID-410': 4, 'ID-405': 40, 'ID-409': 10, 'ID-407': 16, 'ID-408': 8, 'ID-412': 2, 'ID-402': 128, 'ID-403': 10, 'ID-404': 2, 'ID-406': 8, 'ID-411': 6, 'ID-413': 2}",,264.0,EA,,4,TA-24-01-p04,,,,,,,,,,,,,,[],[]
-PT-01 thru PT-50,"ALL Paint Finishes for Guestroom Walls, Ceiling, Trim - PROVIDED BY GC",Adhesive for Corner Guards Installation,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,,,Provided by GC,4,PT-01 thru PT-50-01-p04,,,,,,,,,,,,,,[],[]
-GR-700,"55"" Guestroom TV - LG #55UN560H0UA",ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-406': 4, 'ID-411': 3, 'ID-413': 1}",1.0,133.0,EA,,4,GR-700-01-p04,,,,,,,,,,,,,,[],[]
-GR-701,Pull Out/Articulating Wall Mount at TV - Peerless #HPF650,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-405': 20, 'ID-409': 5, 'ID-407': 8, 'ID-408': 4, 'ID-412': 1, 'ID-406': 4}",,42.0,EA,,4,GR-701-01-p04,,,,,,,,,,,,,,[],[]
-GR-704,Swivel Deck-Mount at Desk/Console for TV - Peerless #PTS4x4,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,"{'ID-400': 10, 'ID-401': 4, 'ID-410': 2, 'ID-402': 64, 'ID-403': 5, 'ID-404': 1, 'ID-411': 3, 'ID-413': 1}",,90.0,EA,,4,GR-704-01-p04,,,,,,,,,,,,,,[],[]
-GR-900,Guest Bath Trash Can,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,35.0,CS,4 per Case Pack,4,GR-900-01-p04,,,,,,,,,,,,,,[],[]
-GR-900L,Guest Bath Trash Can Liner,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,7.0,CS,24 per Case Pack,4,GR-900L-01-p04,,,,,,,,,,,,,,[],[]
-GR-901,"Guestroom Trash and Recycling Wastebasket (dual) - Cordoba, Black",ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,24.0,CS,6 per Case Pack,4,GR-901-01-p04,,,,,,,,,,,,,,[],[]
-GR-901L,Guestroom Trash and Recycling Wastebasket (dual) - LINER,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,12.0,CS,12 per Case Pack,4,GR-901L-01-p04,,,,,,,,,,,,,,[],[]
-PA-100,Upholstered Dining Chair,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,8.0,EA,Includes Specified Vinyl: Fil Doux's Snippet - Sunflower,4,PA-100-01-p04,,,,,,,,,,,,,,[],[]
-PA-101,Wood Frame Dining Chair,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,20.0,EA,Includes Specified Vinyl: PK's Flight Deck - Klein Blue,4,PA-101-01-p04,,,,,,,,,,,,,,[],[]
-PA-102,"Low Back Counterstool at Existing Communal Table bi-level ledge - 22""SH (5 AT
-COMMUNAL LEDGE, 1 AT GUEST LAUNDRY)",LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,6.0,EA,Includes Specified Vinyl: KBC's Pathfinder Canyon,4,PA-102-01-p04,,,,,,,,,,,,,,[],[]
-PA-103,"Lobby 2-Sided Communal Sofa - 162""W with 6 integrated power units; 1 SET is
-made up of 6 units",LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,1.0,SET,Specified fabric Graded in: PK's Right Angle - Admiral,4,PA-103-01-p04,,,,,,,,,,,,,,[],[]
-PA-106,Lounge Chair with Tapered Legs - REMOVED IN UPDATED DWG SET,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,,EA,Specified fabric Graded in: PK's Idiom - Golden,4,PA-106-01-p04,,,,,,,,,,,,,,[],[]
-PA-107,Lounge Chair at Breakfast Area,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,6.0,EA,Specified fabric Graded in: KBC's Beck Nano - Aquamarine,4,PA-107-01-p04,,,,,,,,,,,,,,[],[]
-PA-110,Swivel Lounge Chair at Breakfast Area,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,2.0,EA,Specified fabric Graded in: PK's Beatrix - Lakeland,4,PA-110-01-p04,,,,,,,,,,,,,,[],[]
-PA-111,Ottoman with wood base at Breakfast Area,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,1.0,EA,Specified fabric Graded in: PK's Breakaway - Custom Navy,4,PA-111-01-p04,,,,,,,,,,,,,,[],[]
-PA-150,"Barstool at Bi-Level Communal Table Ledge - 31""SH (REMOVED)",LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,,EA,Specified vinyl Graded in: KBC's Canyon - Pathfinder,4,PA-150-01-p04,,,,,,,,,,,,,,[],[]
-PA-201,Lobby Pendant with Multiple Heads - adjustable length and height,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,4.0,EA,,4,PA-201-01-p04,,,,,,,,,,,,,,[],[]
-PA-201B,"5W LED Bulbs (E26, 2700K) - 8 per pendant",LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},4.0,36.0,EA,,4,PA-201B-01-p04,,,,,,,,,,,,,,[],[]
-PA-202,Typ. Public Space LED Wall Sconce at 1st Floor - 14W Integrated LED,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},1.0,20.0,EA,15 ON ID-300A AND 4 ON ID-300B,4,PA-202-01-p04,,,,,,,,,,,,,,[],[]
-PA-203,Decorative Pendants at Pantry,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,3.0,EA,,4,PA-203-01-p04,,,,,,,,,,,,,,[],[]
-PA-203B,LED Bulbs at Pantry Pendants (9W),LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,3.0,EA,,4,PA-203B-01-p04,,,,,,,,,,,,,,[],[]
-PA-301,"2-Top Dining Table (24x30) - Sap Walnut HPL Top, Black Base",LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,6.0,EA,,4,PA-301-01-p04,,,,,,,,,,,,,,[],[]
-PA-303ADA,"ADA Dining Table (60x30) - Sap Walnut HPL Top, (2) T-Foot Bases",LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,1.0,EA,,4,PA-303ADA-01-p04,,,,,,,,,,,,,,[],[]
-PA-304,"Tea Height Table at Breakfast Area - 30""Dia. (Quartz Top)",LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,3.0,EA,,4,PA-304-01-p04,,,,,,,,,,,,,,[],[]
-PA-309,Side Accent C-Table at Lobby/Breakfast,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,Guestrooms,{},,1.0,EA,,4,PA-309-01-p04,,,,,,,,,,,,,,[],[]
-PA-310,"Printer Cabinet Unit - 24""W",,,Public Areas,,,1.0,EA,,5,PA-310-01-p05,,,,,,,,,,,,,,[],[]
-PA-311,"2-Top Dining Table (24x30) - Mangalore Mango HPL Top, Black Base",,,Public Areas,,,6.0,EA,,5,PA-311-01-p05,,,,,,,,,,,,,,[],[]
-PA-351,ADA Dining Table at Breakfast - 36x36 (4 legs with clearance),,,Public Areas,,,2.0,EA,,5,PA-351-01-p05,,,,,,,,,,,,,,[],[]
-PA-312,Retail/Market Shelving Millwork Units - A through D,,,Public Areas,,,1.0,LOT,,5,PA-312-01-p05,,,,,,,,,,,,,,[],[]
-PA-353,"Window Ledge Seating - 120""W x 24""D x 34""H (counter height)",,,Public Areas,,,1.0,EA,,5,PA-353-01-p05,,,,,,,,,,,,,,[],[]
-PA-315CSTM,"Custom Hospitality Station with Quartz Top - 84""W",,,Public Areas,,,1.0,SET,,5,PA-315CSTM-01-p05,,,,,,,,,,,,,,[],[]
-PA-315A,Buffet/Breakfast Servery Cabinetry with Quartz Tops,,,Public Areas,,,1.0,SET,,5,PA-315A-01-p05,,,,,,,,,,,,,,[],[]
-PA-315B,"Cereal Cabinetry with Quartz Tops at Breakfast Pantry (102""W)",,,Public Areas,,,1.0,SET,,5,PA-315B-01-p05,,,,,,,,,,,,,,[],[]
-PA-315C,Waffle Making Area Cabinetry with Quartz Top,,,Public Areas,,,1.0,SET,,5,PA-315C-01-p05,,,,,,,,,,,,,,[],[]
-PA-315D,Buffet Island Cabinetry with Quartz Top,,,Public Areas,,,1.0,SET,,5,PA-315D-01-p05,,,,,,,,,,,,,,[],[]
-PA-315E,Juice Area Cabinetry with Quartz Top,,,Public Areas,,,,SET,DELETED,5,PA-315E-01-p05,,,,,,,,,,,,,,[],[]
-PA-400,"Inside Mount Sheer Roller Shade at Lobby/Breakfast- Inside Mounted with 4""H
+architrac",2.0,EA,,Specified fabrics are graded in,WINDOW TREATMENT,"If Ceilings are higher than 96""H, treatments to be wall mounted at 96""AFF","{""ID-412"": 2}",3,GR-450ADA-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Artwork / Mirrors,GR-500,Bedroom/Main Guestroom Artwork - SET OF 3 framed Prints,133.0,SET,1.0,,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",3,GR-500-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Artwork / Mirrors,GR-501,"Custom Regional Art at Guest Bath - Framed Print 19.75""W x 26.75""H",133.0,EA,1.0,,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",3,GR-501-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Artwork / Mirrors,GR-502,"Full Length Guestroom Mirror - Sap Walnut Frame - 24""W x 67""H",133.0,EA,1.0,,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",3,GR-502-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Artwork / Mirrors,GR-503,"Framed Vanity Mirror - 48""W x 36""H (Sap Oak Frame finish)",127.0,EA,1.0,,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-400"": 10, ""ID-401"": 4, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-413"": 1}",3,GR-503-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Artwork / Mirrors,GR-550,"Artwork at Wet Bar in Studio Suites - 42""W x 30""H, framed print",43.0,EA,,,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4, ""ID-413"": 1}",3,GR-550-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Artwork / Mirrors,GR-551,"Artwork at Bedrooms - 36""W x 22""H, framed print",43.0,EA,,,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4, ""ID-413"": 1}",3,GR-551-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Artwork / Mirrors,GR-552,"Framed Vanity Mirror - 40""W x 36""H (Sap Oak Frame finish)",6.0,EA,,,ARTWORK & MIRRORS,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-410"": 2, ""ID-412"": 1, ""ID-411"": 3}",3,GR-552-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-600,King Mattress ONLY - Mesmerize (1-sided) 76x80,54.0,EA,,,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1}",3,GR-600-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-601,Queen Mattress ONLY - Mesmerize (1-sided) 60x80,156.0,EA,,,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-402"": 128, ""ID-403"": 10, ""ID-404"": 2, ""ID-406"": 8, ""ID-411"": 6, ""ID-413"": 2}",3,GR-601-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-600ADA,"5.5""H Boxspring for King Mattress in ADA Rooms - 2 per required",6.0,EA,,,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-410"": 4, ""ID-412"": 2}",3,GR-600ADA-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-601ADA,"5.5""H Boxspring for Queen Mattress in ADA Rooms",8.0,EA,,,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-411"": 6, ""ID-413"": 2}",3,GR-601ADA-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,ADA-6556BG,"ADA Bed Frame - Adjustable Size, fits Kings or Queens - 7.25""H",11.0,EA,,,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-410"": 2, ""ID-412"": 1, ""ID-411"": 6, ""ID-413"": 2}",3,ADA-6556BG-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-604ADA,"ADA King Bedskirt - 76""W x 80""L x 12.5""Drop",4.0,EA,1.0,Fabric Included: Valeria - 03 Atlantic,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-410"": 2, ""ID-412"": 1}",3,GR-604ADA-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Bedding,GR-605ADA,"ADA Queen Bedskirt - 60""W x 80""L x 12.5""Drop",9.0,EA,1.0,Fabric Included: Valeria - 03 Atlantic,BEDDING,Installation Services (4 trips/phases) - accomodations provided on site,"{""ID-411"": 6, ""ID-413"": 2}",3,GR-605ADA-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Misc,#2001 (P-02),Rectangular Undermount Sink,125.0,EA,,Vendor will include 5 sinks at no charge in shipment,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},3,#2001 (P-02)-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Misc,#2321 (P-03),ADA Rectangular Undermount Sink,11.0,EA,,TOTAL QTY INCLUDES SINKS FOR PUBLIC RESTROOM VANITIES,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},3,#2321 (P-03)-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Plumbing,P-12,Stainless Steel Wet Bar Sink,41.0,EA,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},3,P-12-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Plumbing,P-13,ADA Stainless Steel Wet Bar Sink - Elkay Model #EELUHAD121245,2.0,EA,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},3,P-13-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Plumbing,P-04,Vanity Faucet - Neo Single Lever,132.0,EA,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},3,P-04-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Plumbing,P-14,"Wet Bar Faucet - Kohler Cru, polished chrome (No pull-down)",43.0,EA,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},3,P-14-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Tile,T-01,"Floor Tile at Guest Bath/Entry - 12"" x 24""",13701.1,SFT,,Portfolio - Ash Grey #PF05 (17.02 SF per Carton),FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 1020, ""ID-401"": 480, ""ID-410"": 260, ""ID-405"": 2580, ""ID-409"": 640, ""ID-407"": 976, ""ID-408"": 560, ""ID-412"": 130, ""ID-402"": 5312, ""ID-403"": 525, ""ID-404"": 123, ""ID-406"": 516, ""ID-411"": 453, ""ID-413"": 124}",3,T-01-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Tile,B-01,"Bullnose Tile Base at Guest Bath ONLY - 4""H x 24""L (entry recieves B-02)",1860.0,PC,,Portfolio - Ash Grey #PF05 (10 pcs per Carton),FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 130, ""ID-401"": 52, ""ID-410"": 28, ""ID-405"": 360, ""ID-409"": 135, ""ID-407"": 200, ""ID-408"": 108, ""ID-412"": 11, ""ID-402"": 640, ""ID-403"": 40, ""ID-404"": 10, ""ID-406"": 84, ""ID-411"": 36, ""ID-413"": 13}",3,B-01-01-p03,,,,,,,,,,,,,,[],[]
+Guestrooms,Entry,Tile,B-02 (supplier C),"Vinyl Millwork Base at Guestroom/Guest Entry - 4.5""H - Oyster Color",255.0,CTN,,48 LF per CTN - QTY per Seaming Diagram: 250 CTNs,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,B-02 (supplier C)-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tile,CP-01,"Guestroom Carpet Tile (24x24) with Attached Cushion/Pad Backing, MONOLITHIC
+INSTALL",4308.0,SYD,,"QTY per Seaming Diagram: 4,208 SYDs",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,CP-01-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Construction Consumables,B-02A,Adhesive for Vinyl Millwork Base - (TUBES),25.0,CTN,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,B-02A-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Construction Consumables,CP-01A,"Adhesive for Carpet Tile Install - QTY COVERS PUBLIC SPACE TOO, 4GAL",74.0,EA,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,CP-01A-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Entry,Tile,TH-01,Vinyl Threshold at Guestroom Entry and Connecting Doors - BY GC,,,,Provided by GC,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,TH-01-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tile,TS-01,Schluter Metal Edge Trim/Transition Strip - PROVIDED BY GC,,,,Provided by GC,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,TS-01-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Wallpaper / Wallcovering,WC-01,Accent Wallcovering at Headboard Wall,1620.0,LYD,,"NA-KIN-203 (Estimated Takeoff QTY is 1,536 LYDs)",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 73, ""ID-401"": 28, ""ID-410"": 24, ""ID-405"": 200, ""ID-409"": 65, ""ID-407"": 80, ""ID-408"": 40, ""ID-412"": 12, ""ID-402"": 832, ""ID-403"": 64, ""ID-404"": 14, ""ID-406"": 48, ""ID-411"": 42, ""ID-413"": 14}",4,WC-01-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Wallpaper / Wallcovering,VWC-02,Wallcovering at Guest Bath,2910.0,LYD,,"WG333134527 - Innvision Takeoff QTY: 2,868 LYDs",FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 180, ""ID-401"": 88, ""ID-410"": 36, ""ID-405"": 460, ""ID-409"": 170, ""ID-407"": 248, ""ID-408"": 136, ""ID-412"": 15, ""ID-402"": 1248, ""ID-403"": 90, ""ID-404"": 21, ""ID-406"": 104, ""ID-411"": 57, ""ID-413"": 15}",4,VWC-02-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Wall Protection,WP-01,"Corner Guard at Guestroom - 3/4""wings x 8'H - Color: Feather #0238",214.0,EA,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 60, ""ID-409"": 15, ""ID-407"": 24, ""ID-408"": 12, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 12, ""ID-411"": 3, ""ID-413"": 1}",4,WP-01-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Wall Protection,WP-02,"Corner Guard at Guest Bath - 3/4""wings x 8'H - Color: 0101 Designer White",30.0,EA,,,FINISHES & FIXTURES,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 20, ""ID-401"": 8, ""ID-412"": 1, ""ID-413"": 1}",4,WP-02-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Toilet Accessories,TA-24,Guest Bath Robe/Towel Wall Hooks - Sky Blue Color (2 per bath),264.0,EA,,,Adhesive for Corner Guards Installation,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 20, ""ID-401"": 8, ""ID-410"": 4, ""ID-405"": 40, ""ID-409"": 10, ""ID-407"": 16, ""ID-408"": 8, ""ID-412"": 2, ""ID-402"": 128, ""ID-403"": 10, ""ID-404"": 2, ""ID-406"": 8, ""ID-411"": 6, ""ID-413"": 2}",4,TA-24-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Paint,PT-01 thru PT-50,"ALL Paint Finishes for Guestroom Walls, Ceiling, Trim - PROVIDED BY GC",,,,Provided by GC,Adhesive for Corner Guards Installation,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PT-01 thru PT-50-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-700,"55"" Guestroom TV - LG #55UN560H0UA",133.0,EA,1.0,,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-406"": 4, ""ID-411"": 3, ""ID-413"": 1}",4,GR-700-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-701,Pull Out/Articulating Wall Mount at TV - Peerless #HPF650,42.0,EA,,,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-405"": 20, ""ID-409"": 5, ""ID-407"": 8, ""ID-408"": 4, ""ID-412"": 1, ""ID-406"": 4}",4,GR-701-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Tables,GR-704,Swivel Deck-Mount at Desk/Console for TV - Peerless #PTS4x4,90.0,EA,,,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,"{""ID-400"": 10, ""ID-401"": 4, ""ID-410"": 2, ""ID-402"": 64, ""ID-403"": 5, ""ID-404"": 1, ""ID-411"": 3, ""ID-413"": 1}",4,GR-704-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Guestroom FF&E,GR-900,Guest Bath Trash Can,35.0,CS,,4 per Case Pack,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,GR-900-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guest Bath,Guestroom FF&E,GR-900L,Guest Bath Trash Can Liner,7.0,CS,,24 per Case Pack,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,GR-900L-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-901,"Guestroom Trash and Recycling Wastebasket (dual) - Cordoba, Black",24.0,CS,,6 per Case Pack,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,GR-901-01-p04,,,,,,,,,,,,,,[],[]
+Guestrooms,Guestroom,Guestroom FF&E,GR-901L,Guestroom Trash and Recycling Wastebasket (dual) - LINER,12.0,CS,,12 per Case Pack,ANCILLARY,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,GR-901L-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-100,Upholstered Dining Chair,8.0,EA,,Includes Specified Vinyl: Fil Doux's Snippet - Sunflower,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-100-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-101,Wood Frame Dining Chair,20.0,EA,,Includes Specified Vinyl: PK's Flight Deck - Klein Blue,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-101-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Back of House,Seating,PA-102,"Low Back Counterstool at Existing Communal Table bi-level ledge - 22""SH (5 AT
+COMMUNAL LEDGE, 1 AT GUEST LAUNDRY)",6.0,EA,,Includes Specified Vinyl: KBC's Pathfinder Canyon,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-102-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-103,"Lobby 2-Sided Communal Sofa - 162""W with 6 integrated power units; 1 SET is
+made up of 6 units",1.0,SET,,Specified fabric Graded in: PK's Right Angle - Admiral,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-103-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-106,Lounge Chair with Tapered Legs - REMOVED IN UPDATED DWG SET,,EA,,Specified fabric Graded in: PK's Idiom - Golden,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-106-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-107,Lounge Chair at Breakfast Area,6.0,EA,,Specified fabric Graded in: KBC's Beck Nano - Aquamarine,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-107-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-110,Swivel Lounge Chair at Breakfast Area,2.0,EA,,Specified fabric Graded in: PK's Beatrix - Lakeland,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-110-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-111,Ottoman with wood base at Breakfast Area,1.0,EA,,Specified fabric Graded in: PK's Breakaway - Custom Navy,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-111-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Seating,PA-150,"Barstool at Bi-Level Communal Table Ledge - 31""SH (REMOVED)",,EA,,Specified vinyl Graded in: KBC's Canyon - Pathfinder,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-150-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tables,PA-201,Lobby Pendant with Multiple Heads - adjustable length and height,4.0,EA,,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-201-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Lighting,PA-201B,"5W LED Bulbs (E26, 2700K) - 8 per pendant",36.0,EA,4.0,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-201B-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Lighting,PA-202,Typ. Public Space LED Wall Sconce at 1st Floor - 14W Integrated LED,20.0,EA,1.0,15 ON ID-300A AND 4 ON ID-300B,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-202-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Lighting,PA-203,Decorative Pendants at Pantry,3.0,EA,,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-203-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Lighting,PA-203B,LED Bulbs at Pantry Pendants (9W),3.0,EA,,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-203B-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tables,PA-301,"2-Top Dining Table (24x30) - Sap Walnut HPL Top, Black Base",6.0,EA,,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-301-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tables,PA-303ADA,"ADA Dining Table (60x30) - Sap Walnut HPL Top, (2) T-Foot Bases",1.0,EA,,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-303ADA-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tables,PA-304,"Tea Height Table at Breakfast Area - 30""Dia. (Quartz Top)",3.0,EA,,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-304-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tables,PA-309,Side Accent C-Table at Lobby/Breakfast,1.0,EA,,,LOBBY & BREAKFAST,*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*,{},4,PA-309-01-p04,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Public Area FF&E,PA-310,"Printer Cabinet Unit - 24""W",1.0,EA,,,,,,5,PA-310-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Tables,PA-311,"2-Top Dining Table (24x30) - Mangalore Mango HPL Top, Black Base",6.0,EA,,,,,,5,PA-311-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tables,PA-351,ADA Dining Table at Breakfast - 36x36 (4 legs with clearance),2.0,EA,,,,,,5,PA-351-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Public Area FF&E,PA-312,Retail/Market Shelving Millwork Units - A through D,1.0,LOT,,,,,,5,PA-312-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Lighting,PA-353,"Window Ledge Seating - 120""W x 24""D x 34""H (counter height)",1.0,EA,,,,,,5,PA-353-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Public Area FF&E,PA-315CSTM,"Custom Hospitality Station with Quartz Top - 84""W",1.0,SET,,,,,,5,PA-315CSTM-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Public Area FF&E,PA-315A,Buffet/Breakfast Servery Cabinetry with Quartz Tops,1.0,SET,,,,,,5,PA-315A-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Public Area FF&E,PA-315B,"Cereal Cabinetry with Quartz Tops at Breakfast Pantry (102""W)",1.0,SET,,,,,,5,PA-315B-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Public Area FF&E,PA-315C,Waffle Making Area Cabinetry with Quartz Top,1.0,SET,,,,,,5,PA-315C-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Public Area FF&E,PA-315D,Buffet Island Cabinetry with Quartz Top,1.0,SET,,,,,,5,PA-315D-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Public Area FF&E,PA-315E,Juice Area Cabinetry with Quartz Top,,SET,,DELETED,,,,5,PA-315E-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Paint,PA-400,"Inside Mount Sheer Roller Shade at Lobby/Breakfast- Inside Mounted with 4""H
 Fascia, painted to match #SW7671 On the Rocks - Manual controls/SS bead chain
 with clutch. Sheer Fabric is graded in: 2 Windows are 72”W x 130”H, 1 Window is
-60”W x 130”H",,,Public Areas,,,1.0,LOT,,5,PA-400-01-p05,,,,,,,,,,,,,,[],[]
-PA-502,"Artwork at Lobby - 48""W x 30""H",,,Public Areas,,,1.0,EA,,5,PA-502-01-p05,,,,,,,,,,,,,,[],[]
-PA-503,"Artwork at 1st Floor Elevator Lobby - SET OF 2, 30x42 each",,,Public Areas,,,1.0,PR,,5,PA-503-01-p05,,,,,,,,,,,,,,[],[]
-PA-504A/B/C,"Coffee Cup Graphics Artwork at Pantry - SET OF 3, 18x18 each",,,Public Areas,,,1.0,SET,,5,PA-504A/B/C-01-p05,,,,,,,,,,,,,,[],[]
-PA-505,"Custom Artwork at Breakfast Area - 60""W x 42""H",,,Public Areas,,,1.0,EA,,5,PA-505-01-p05,,,,,,,,,,,,,,[],[]
-PA-506,"Custom Artwork at Breakfast Area - 36""W x 36""H, SET OF 2",,,Public Areas,,,1.0,SET,,5,PA-506-01-p05,,,,,,,,,,,,,,[],[]
-PA-550,"Wall-Mounted Moment (Feature) at Front Desk - 8'7""W x 42""OAH",,,Public Areas,,,1.0,EA,,5,PA-550-01-p05,,,,,,,,,,,,,,[],[]
-PA-800,"55"" TVs throughout Public Space: (2) at Meeting Room, (2) at Breakfast, (1) at
-Boardroom, (2) at Breakout Meeting Rooms, (1) at Fitness",,,Public Areas,,,8.0,EA,,5,PA-800-01-p05,,,,,,,,,,,,,,[],[]
-PA-801,"Pull-Out/Articulating Wall Mount for 55"" TVs - #HPF650",,,Public Areas,,,8.0,EA,,5,PA-801-01-p05,,,,,,,,,,,,,,[],[]
-PA-551,"Artwork at Hospitality Station - 45.5""W x 16.5""H",,,Public Areas,,,1.0,EA,,5,PA-551-01-p05,,,,,,,,,,,,,,[],[]
-PA-900A/B/C,Accessory Sets at Breakfast Area/Pantry,,,Public Areas,,,1.0,LOT,,5,PA-900A/B/C-01-p05,,,,,,,,,,,,,,[],[]
-PA-112,Omega II Stack Chair at Meeting Room with COM Fabric,MEETING SPACES,,Public Areas,,,100.0,EA,,5,PA-112-01-p05,,,,,,,,,,,,,,[],[]
-PA-112F,COM Fabric at Meeting Room Stack Chairs,MEETING SPACES,,Public Areas,,,90.0,YD,,5,PA-112F-01-p05,,,,,,,,,,,,,,[],[]
-PA-113-CST,Boardroom Task Chairs,MEETING SPACES,,Public Areas,,,,EA,"Required to be Replaced per Hilton; However, Existing to be kept & tried
-in newly finished space. Will send to Hilton for reevaluation.",5,PA-113-CST-01-p05,,,,,,,,,,,,,,[],[]
-PA-317,"Boardroom Table with Integrated Power Hubs - 240""W x 60""D",MEETING SPACES,,Public Areas,,,,EA,,5,PA-317-01-p05,,,,,,,,,,,,,,[],[]
-PA-204,"5-head Decorative Pendant at Boardroom - 48""W",MEETING SPACES,,Public Areas,,,2.0,EA,,5,PA-204-01-p05,,,,,,,,,,,,,,[],[]
-PA-204B,7W A15 2700K Bulbs for Boardroom Pendants,MEETING SPACES,,Public Areas,,,12.0,EA,,5,PA-204B-01-p05,,,,,,,,,,,,,,[],[]
-PA-314,"Meeting Room Folding Table - 72""W x 18""D",MEETING SPACES,,Public Areas,,,,EA,N/A - EXISTING WILL REMAIN,5,PA-314-01-p05,,,,,,,,,,,,,,[],[]
-PA-552,"Artwork at Breakout Room A - 36x36, Framed Paper Print",MEETING SPACES,,Public Areas,,,1.0,EA,,5,PA-552-01-p05,,,,,,,,,,,,,,[],[]
-PA-553,"Artwork at Breakout Room B - 36x36, Framed Paper Print",MEETING SPACES,,Public Areas,,,1.0,EA,,5,PA-553-01-p05,,,,,,,,,,,,,,[],[]
-PA-554,"Artwork at Boardroom - Canvas Prints in Floater Frames - TRIPTYCH; Each Panel is
-27""W x 42""H (OAW of 90"")",MEETING SPACES,,Public Areas,,,1.0,SET,,5,PA-554-01-p05,,,,,,,,,,,,,,[],[]
-PA-557,"Artwork at Boardroom Counter, Canvas in Floater Frame - 42""W x 30""H",MEETING SPACES,,Public Areas,,,1.0,EA,,5,PA-557-01-p05,,,,,,,,,,,,,,[],[]
-PA-560,"Artwork at Meeting Room A Alcove - 36x36, Framed Paper Print",MEETING SPACES,,Public Areas,,,1.0,EA,,5,PA-560-01-p05,,,,,,,,,,,,,,[],[]
-PA-561,"Artwork at Meeting Room B Alcove - 36x36, Framed Paper Print",MEETING SPACES,,Public Areas,,,1.0,EA,,5,PA-561-01-p05,,,,,,,,,,,,,,[],[]
-PA-562,"Artwork at Meeting Rooms - 42x42, Framed Paper Prints - SET OF 4",MEETING SPACES,,Public Areas,,,1.0,SET,,5,PA-562-01-p05,,,,,,,,,,,,,,[],[]
-PA-260,"LED Vanity Light at Public Restrooms - 24""W (one above each sink)","PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,4.0,EA,,5,PA-260-01-p05,,,,,,,,,,,,,,[],[]
-PA-400,"Inside Mount Sheer Roller Shade at Fitness (windows face interior corridor) -
-Windows are 60""W x 72""H","PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,,EA,Brand has approved existing blinds can remain in place,5,PA-400-02-p05,,,,,,,,,,,,,,[],[]
-PA-316,"Fitness Center Towel Station with quartz top - 82""W x 24""D x 34""H","PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,1.0,EA,,5,PA-316-01-p05,,,,,,,,,,,,,,[],[]
-P-17,Sensor/Touchless Vanity Faucet,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,4.0,EA,,5,P-17-01-p05,,,,,,,,,,,,,,[],[]
-P-19,Employee Breakroom Faucet,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,1.0,EA,,5,P-19-01-p05,,,,,,,,,,,,,,[],[]
-P-23,Touchless Deck Mounted Soap Dispenser,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,4.0,EA,,5,P-23-01-p05,,,,,,,,,,,,,,[],[]
-P-18,Drop-In Stainless Steel Sink at Employee Breakroom,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,1.0,EA,,5,P-18-01-p05,,,,,,,,,,,,,,[],[]
-PA-508,"Framed Vanity Mirror at Public Restrooms, Employee RR, and Pool Restroom - 24""W
-x 36""H","PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,6.0,EA,,5,PA-508-01-p05,,,,,,,,,,,,,,[],[]
-PA-509,"Framed Mirror at Fitness (above towel console) - 60""W x 30""H","PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,1.0,EA,,5,PA-509-01-p05,,,,,,,,,,,,,,[],[]
-MR-10,Plate Glass Wall at Fitness - BY GC,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,Public Areas,,,,,PROVIDED BY GC,5,MR-10-01-p05,,,,,,,,,,,,,,[],[]
-OF-702,Darwin Dining Armchair at Pool - Green,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,Public Areas,,,4.0,EA,,6,OF-702-01-p06,,,,,,,,,,,,,,[],[]
-OF-703,Pool Side Lounge Chair - Maple Red,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,Public Areas,,,4.0,EA,,6,OF-703-01-p06,,,,,,,,,,,,,,[],[]
-OF-705,Two-Top Pool Table - Cement Finish (24x32),Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,Public Areas,,,2.0,EA,,6,OF-705-01-p06,,,,,,,,,,,,,,[],[]
-OF-707,Yard Side Table - Black Finish,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,Public Areas,,,2.0,EA,,6,OF-707-01-p06,,,,,,,,,,,,,,[],[]
-OF-708,Radius Matrix Side Table - Bright Sandstone Finish,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,Public Areas,,,2.0,EA,,6,OF-708-01-p06,,,,,,,,,,,,,,[],[]
-PA-250,Corridor Wall Sconce,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,62.0,EA,"14 per Floors at Floors 2-5, 4 at 1st",6,PA-250-01-p06,,,,,,,,,,,,,,[],[]
-PA-250B,4.5W T10 LED Bulb for Corridor Sconces - 2 per,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,128.0,EA,,6,PA-250B-01-p06,,,,,,,,,,,,,,[],[]
-PA-251,"Flush Mount Corridor Ceiling Light - 17""Dia.",CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,28.0,EA,QTY Verified by Property,6,PA-251-01-p06,,,,,,,,,,,,,,[],[]
-PA-251B,9W LED Bulbs for Ceiling Lights - 3 per,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,85.0,EA,,6,PA-251B-01-p06,,,,,,,,,,,,,,[],[]
-PA-300,"Console Table at Upper Floor Elevator Lobbies - 52""W",CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,4.0,EA,,6,PA-300-01-p06,,,,,,,,,,,,,,[],[]
-PA-400,"Inside Mount Sheer Roller Shade at Corridors - 1 per Floor, Floors 2-5",CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,4.0,EA,,6,PA-400-03-p06,,,,,,,,,,,,,,[],[]
-PA-500A,Artwork at Elevator Lobby - Floor 2 - Set of 3 Framed Custom Prints,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,1.0,SET,,6,PA-500A-01-p06,,,,,,,,,,,,,,[],[]
-PA-500B,Artwork at Elevator Lobby - Floor 3 - Set of 3 Framed Custom Prints,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,1.0,SET,,6,PA-500B-01-p06,,,,,,,,,,,,,,[],[]
-PA-500C,Artwork at Elevator Lobby - Floor 4 - Set of 3 Framed Custom Prints,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,1.0,SET,,6,PA-500C-01-p06,,,,,,,,,,,,,,[],[]
-PA-500D,Artwork at Elevator Lobby - Floor 5 - Set of 3 Framed Custom Prints,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,Public Areas,,,1.0,SET,,6,PA-500D-01-p06,,,,,,,,,,,,,,[],[]
-B-10,"Bullnose Tile Base at Public Areas (Typ.) - 4""H x 24""L",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,600.0,PC,"Portfolio - Ash Grey #PF05 (10 pcs per Carton); Estimated takeoff QTY:
-1,056 LF",6,B-10-01-p06,,,,,,,,,,,,,,[],[]
-B-12,"Bullnose Tile Base at Pool Restroom - 4""H x 24""L",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,20.0,PC,Modern Formation MF04 - Headland Fog (28 LF needed per Takeoff),6,B-12-01-p06,,,,,,,,,,,,,,[],[]
-T-10,Main Public Space Floor Tile (Typ.) - 12x24,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,4799.64,SFT,"Portfolio - Ash Grey #PF05 (17.02 SF per Carton) Estimated QTY per
-Takeoff: 4,761 SF",6,T-10-01-p06,,,,,,,,,,,,,,[],[]
-T-12,Floor and Wainscot Tile at Pool - 12x24,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1702.0,SFT,"Modern Formation MF04 - Headland Fog (17.02 SF per CTN) - Per Takeoff:
-980 SF for Pool Deck, 676 SF for Wainscot",6,T-12-01-p06,,,,,,,,,,,,,,[],[]
-T-13,"Bullnose Tile Wainscot Cap at Pool Wall Tile - 4""H x 24""L",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,90.0,PC,Modern Formation MF04 - Headland Fog (170 LF needed per Takeoff),6,T-13-01-p06,,,,,,,,,,,,,,[],[]
-T-14,Wall Tile at Pantry - 3x12,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,132.0,SF,"Stagecraft #0790 Matte Arctic White (12 SF per CTN) - Qty per Takeoff
-111 SFT",6,T-14-01-p06,,,,,,,,,,,,,,[],[]
-T-15,Wall Tile at Public and Pool Restrooms Wet Wall(s) - 4x12,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,404.32,SF,"Color Wheel #0190 Arctic White Linear (10.64 SF per CTN); 324 SF needed
-for PRR + 63 SF @ Pool RR",6,T-15-01-p06,,,,,,,,,,,,,,[],[]
-B-13,"Vinyl Millwork Base at Corridors and Employee Breakroom - 4.5""H",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,64.0,CTN,48 LF per CTN; QTY per Shaw Seaming Diagram: 62 CTNs,6,B-13-01-p06,,,,,,,,,,,,,,[],[]
-B-14,"Vinyl Millwork Base at Meeting Rooms - 4.5""H",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,9.0,CTN,48 LF per CTN; QTY per Shaw Seaming Diagram: 9 CTNs,6,B-14-01-p06,,,,,,,,,,,,,,[],[]
-B-15,"Vinyl Coved Base at Back of House - 4""H",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,4.0,CTN,120 LF per CTN (estimated QTY of 342 LF needed per takeoff),6,B-15-01-p06,,,,,,,,,,,,,,[],[]
-B-15ALT,"4""H Solid Carpet Base at Stairwell Landings",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,550.0,LF,QTY per Shaw Seaming Diagram: 539 LF,6,B-15ALT-01-p06,,,,,,,,,,,,,,[],[]
-B-16,"Vinyl Millwork Base at Fitness Center - 4.5""H",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,3.0,CTN,48 LF per CTN; QTY per Shaw Seaming Diagram: 3 CTNs,6,B-16-01-p06,,,,,,,,,,,,,,[],[]
-CP-10,"Carpet Tile at Corridors (24x24, 28 oz. with Attached Cushion/Pad Backing)",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1284.0,SYD,"QTY per Shaw Seaming Diagram: 1,184 SYDs",6,CP-10-01-p06,,,,,,,,,,,,,,[],[]
-CP-11A,"Loose Lay Finished Area Rug at Communal Sofas with Non-Skid Backing - 14'6"" x 16'",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1.0,EA,,6,CP-11A-01-p06,,,,,,,,,,,,,,[],[]
-CP-11B,"Loose Lay Finished Area Rug at Lounge Chairs with Non-Skid Backing - 4'6"" x 8'",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1.0,EA,,6,CP-11B-01-p06,,,,,,,,,,,,,,[],[]
-CP-12,"Carpet Tile at Meeting Rooms & Boardroom (24x24, 28 oz. with Attached
-Cushion/Pad Backing)",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,380.0,SYD,QTY per Shaw Seaming Diagram: 362.67 SYDs,6,CP-12-01-p06,,,,,,,,,,,,,,[],[]
-CP-13,Broadloom Carpet at Stairwells - 12'W,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,350.0,SYD,QTY per Shaw Seaming Diagram: 337 SYDs,6,CP-13-01-p06,,,,,,,,,,,,,,[],[]
-CP-13ALT,"Carpet Tile at Back of House (24x24, no attached pad, Ecoworx backing)",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,115.0,SYD,QTY per Shaw Seaming Diagram: 106.67 SYDs,6,CP-13ALT-01-p06,,,,,,,,,,,,,,[],[]
-CPP-10,Carpet Pad for Broadloom on Stairwells - APPLIED ON LANDINGS ONLY,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,150.0,SYD,,6,CPP-10-01-p06,,,,,,,,,,,,,,[],[]
-PT-10 thru PT-24,"ALL Wall, Ceiling, Accent Wall, Door/Trim Paints - BY GC",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,,,PROVIDED BY GENERAL CONTRACTOR,6,PT-10 thru PT-24-01-p06,,,,,,,,,,,,,,[],[]
-RF-10,Rubber Flooring at Fitness Center - Sold in increments of 25',FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,650.0,SF,Estimated QTY per Plans takeoff: 614 SF,6,RF-10-01-p06,,,,,,,,,,,,,,[],[]
-RF-11,LVT Flooring at Employee Breakroom (7x48 planks),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,262.0,SF,,6,RF-11-01-p06,,,,,,,,,,,,,,[],[]
-SF-11,"Waffle Graphic at Pantry - OA DIMENSIONS: 42""W x 84""H (trimmable)",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1.0,EA,Elevation #5 on ID-601,6,SF-11-01-p06,,,,,,,,,,,,,,[],[]
-SF-12,Metal Rail for Pantry,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1.0,LOT,,6,SF-12-01-p06,,,,,,,,,,,,,,[],[]
-WC-10,Wallcovering at Guestroom Corridors & Upper Floor Elevator Lobbies,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1740.0,LY,WG33190956 - Estimated takeoff QTY: 426.6 LYDs per Floor x 4 FLs,6,WC-10-01-p06,,,,,,,,,,,,,,[],[]
-WC-11,"Main/Typ. Public Area Wallcovering and Meeting Room Wallcovering + Meeting
-Rooms Air Walls",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1080.0,LY,"GOH 33296564 (202 LYDs for Boardroom, Breakout A/B, & Air Wall + 216
+60”W x 130”H",1.0,LOT,,,,,,5,PA-400-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Artwork / Mirrors,PA-502,"Artwork at Lobby - 48""W x 30""H",1.0,EA,,,,,,5,PA-502-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Artwork / Mirrors,PA-503,"Artwork at 1st Floor Elevator Lobby - SET OF 2, 30x42 each",1.0,PR,,,,,,5,PA-503-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Artwork / Mirrors,PA-504A/B/C,"Coffee Cup Graphics Artwork at Pantry - SET OF 3, 18x18 each",1.0,SET,,,,,,5,PA-504A/B/C-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Artwork / Mirrors,PA-505,"Custom Artwork at Breakfast Area - 60""W x 42""H",1.0,EA,,,,,,5,PA-505-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Artwork / Mirrors,PA-506,"Custom Artwork at Breakfast Area - 36""W x 36""H, SET OF 2",1.0,SET,,,,,,5,PA-506-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tables,PA-550,"Wall-Mounted Moment (Feature) at Front Desk - 8'7""W x 42""OAH",1.0,EA,,,,,,5,PA-550-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Public Area FF&E,PA-800,"55"" TVs throughout Public Space: (2) at Meeting Room, (2) at Breakfast, (1) at
+Boardroom, (2) at Breakout Meeting Rooms, (1) at Fitness",8.0,EA,,,,,,5,PA-800-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Public Area FF&E,PA-801,"Pull-Out/Articulating Wall Mount for 55"" TVs - #HPF650",8.0,EA,,,,,,5,PA-801-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Artwork / Mirrors,PA-551,"Artwork at Hospitality Station - 45.5""W x 16.5""H",1.0,EA,,,,,,5,PA-551-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Public Area FF&E,PA-900A/B/C,Accessory Sets at Breakfast Area/Pantry,1.0,LOT,,,,,,5,PA-900A/B/C-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Seating,PA-112,Omega II Stack Chair at Meeting Room with COM Fabric,100.0,EA,,,MEETING SPACES,,,5,PA-112-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Seating,PA-112F,COM Fabric at Meeting Room Stack Chairs,90.0,YD,,,MEETING SPACES,,,5,PA-112F-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Seating,PA-113-CST,Boardroom Task Chairs,,EA,,"Required to be Replaced per Hilton; However, Existing to be kept & tried
+in newly finished space. Will send to Hilton for reevaluation.",MEETING SPACES,,,5,PA-113-CST-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Tables,PA-317,"Boardroom Table with Integrated Power Hubs - 240""W x 60""D",,EA,,,MEETING SPACES,,,5,PA-317-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Lighting,PA-204,"5-head Decorative Pendant at Boardroom - 48""W",2.0,EA,,,MEETING SPACES,,,5,PA-204-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Lighting,PA-204B,7W A15 2700K Bulbs for Boardroom Pendants,12.0,EA,,,MEETING SPACES,,,5,PA-204B-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Tables,PA-314,"Meeting Room Folding Table - 72""W x 18""D",,EA,,N/A - EXISTING WILL REMAIN,MEETING SPACES,,,5,PA-314-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Artwork / Mirrors,PA-552,"Artwork at Breakout Room A - 36x36, Framed Paper Print",1.0,EA,,,MEETING SPACES,,,5,PA-552-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Artwork / Mirrors,PA-553,"Artwork at Breakout Room B - 36x36, Framed Paper Print",1.0,EA,,,MEETING SPACES,,,5,PA-553-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Artwork / Mirrors,PA-554,"Artwork at Boardroom - Canvas Prints in Floater Frames - TRIPTYCH; Each Panel is
+27""W x 42""H (OAW of 90"")",1.0,SET,,,MEETING SPACES,,,5,PA-554-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Artwork / Mirrors,PA-557,"Artwork at Boardroom Counter, Canvas in Floater Frame - 42""W x 30""H",1.0,EA,,,MEETING SPACES,,,5,PA-557-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Artwork / Mirrors,PA-560,"Artwork at Meeting Room A Alcove - 36x36, Framed Paper Print",1.0,EA,,,MEETING SPACES,,,5,PA-560-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Artwork / Mirrors,PA-561,"Artwork at Meeting Room B Alcove - 36x36, Framed Paper Print",1.0,EA,,,MEETING SPACES,,,5,PA-561-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Artwork / Mirrors,PA-562,"Artwork at Meeting Rooms - 42x42, Framed Paper Prints - SET OF 4",1.0,SET,,,MEETING SPACES,,,5,PA-562-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Lighting,PA-260,"LED Vanity Light at Public Restrooms - 24""W (one above each sink)",4.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,PA-260-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Window Treatment,PA-400,"Inside Mount Sheer Roller Shade at Fitness (windows face interior corridor) -
+Windows are 60""W x 72""H",,EA,,Brand has approved existing blinds can remain in place,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,PA-400-02-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Toilet Accessories,PA-316,"Fitness Center Towel Station with quartz top - 82""W x 24""D x 34""H",1.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,PA-316-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Plumbing,P-17,Sensor/Touchless Vanity Faucet,4.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,P-17-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Back of House,Plumbing,P-19,Employee Breakroom Faucet,1.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,P-19-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Plumbing,P-23,Touchless Deck Mounted Soap Dispenser,4.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,P-23-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Back of House,Plumbing,P-18,Drop-In Stainless Steel Sink at Employee Breakroom,1.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,P-18-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Artwork / Mirrors,PA-508,"Framed Vanity Mirror at Public Restrooms, Employee RR, and Pool Restroom - 24""W
+x 36""H",6.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,PA-508-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Toilet Accessories,PA-509,"Framed Mirror at Fitness (above towel console) - 60""W x 30""H",1.0,EA,,,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,PA-509-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Misc,MR-10,Plate Glass Wall at Fitness - BY GC,,,,PROVIDED BY GC,"PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",,,5,MR-10-01-p05,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Seating,OF-702,Darwin Dining Armchair at Pool - Green,4.0,EA,,,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,,6,OF-702-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Seating,OF-703,Pool Side Lounge Chair - Maple Red,4.0,EA,,,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,,6,OF-703-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Tables,OF-705,Two-Top Pool Table - Cement Finish (24x32),2.0,EA,,,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,,6,OF-705-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Tables,OF-707,Yard Side Table - Black Finish,2.0,EA,,,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,,6,OF-707-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Tables,OF-708,Radius Matrix Side Table - Bright Sandstone Finish,2.0,EA,,,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,,6,OF-708-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Lighting,PA-250,Corridor Wall Sconce,62.0,EA,,"14 per Floors at Floors 2-5, 4 at 1st",CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-250-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Lighting,PA-250B,4.5W T10 LED Bulb for Corridor Sconces - 2 per,128.0,EA,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-250B-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Lighting,PA-251,"Flush Mount Corridor Ceiling Light - 17""Dia.",28.0,EA,,QTY Verified by Property,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-251-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Lighting,PA-251B,9W LED Bulbs for Ceiling Lights - 3 per,85.0,EA,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-251B-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Tables,PA-300,"Console Table at Upper Floor Elevator Lobbies - 52""W",4.0,EA,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-300-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Window Treatment,PA-400,"Inside Mount Sheer Roller Shade at Corridors - 1 per Floor, Floors 2-5",4.0,EA,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-400-03-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Artwork / Mirrors,PA-500A,Artwork at Elevator Lobby - Floor 2 - Set of 3 Framed Custom Prints,1.0,SET,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-500A-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Artwork / Mirrors,PA-500B,Artwork at Elevator Lobby - Floor 3 - Set of 3 Framed Custom Prints,1.0,SET,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-500B-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Artwork / Mirrors,PA-500C,Artwork at Elevator Lobby - Floor 4 - Set of 3 Framed Custom Prints,1.0,SET,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-500C-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Artwork / Mirrors,PA-500D,Artwork at Elevator Lobby - Floor 5 - Set of 3 Framed Custom Prints,1.0,SET,,,CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS,,,6,PA-500D-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Tile,B-10,"Bullnose Tile Base at Public Areas (Typ.) - 4""H x 24""L",600.0,PC,,"Portfolio - Ash Grey #PF05 (10 pcs per Carton); Estimated takeoff QTY:
+1,056 LF",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,B-10-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Tile,B-12,"Bullnose Tile Base at Pool Restroom - 4""H x 24""L",20.0,PC,,Modern Formation MF04 - Headland Fog (28 LF needed per Takeoff),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,B-12-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Tile,T-10,Main Public Space Floor Tile (Typ.) - 12x24,4799.64,SFT,,"Portfolio - Ash Grey #PF05 (17.02 SF per Carton) Estimated QTY per
+Takeoff: 4,761 SF",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,T-10-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Tile,T-12,Floor and Wainscot Tile at Pool - 12x24,1702.0,SFT,,"Modern Formation MF04 - Headland Fog (17.02 SF per CTN) - Per Takeoff:
+980 SF for Pool Deck, 676 SF for Wainscot",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,T-12-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Tile,T-13,"Bullnose Tile Wainscot Cap at Pool Wall Tile - 4""H x 24""L",90.0,PC,,Modern Formation MF04 - Headland Fog (170 LF needed per Takeoff),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,T-13-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Tile,T-14,Wall Tile at Pantry - 3x12,132.0,SF,,"Stagecraft #0790 Matte Arctic White (12 SF per CTN) - Qty per Takeoff
+111 SFT",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,T-14-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Pool,Tile,T-15,Wall Tile at Public and Pool Restrooms Wet Wall(s) - 4x12,404.32,SF,,"Color Wheel #0190 Arctic White Linear (10.64 SF per CTN); 324 SF needed
+for PRR + 63 SF @ Pool RR",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,T-15-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Tile,B-13,"Vinyl Millwork Base at Corridors and Employee Breakroom - 4.5""H",64.0,CTN,,48 LF per CTN; QTY per Shaw Seaming Diagram: 62 CTNs,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,B-13-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Tile,B-14,"Vinyl Millwork Base at Meeting Rooms - 4.5""H",9.0,CTN,,48 LF per CTN; QTY per Shaw Seaming Diagram: 9 CTNs,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,B-14-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Back of House,Tile,B-15,"Vinyl Coved Base at Back of House - 4""H",4.0,CTN,,120 LF per CTN (estimated QTY of 342 LF needed per takeoff),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,B-15-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Tile,B-15ALT,"4""H Solid Carpet Base at Stairwell Landings",550.0,LF,,QTY per Shaw Seaming Diagram: 539 LF,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,B-15ALT-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Tile,B-16,"Vinyl Millwork Base at Fitness Center - 4.5""H",3.0,CTN,,48 LF per CTN; QTY per Shaw Seaming Diagram: 3 CTNs,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,B-16-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Tile,CP-10,"Carpet Tile at Corridors (24x24, 28 oz. with Attached Cushion/Pad Backing)",1284.0,SYD,,"QTY per Shaw Seaming Diagram: 1,184 SYDs",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,CP-10-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Flooring,CP-11A,"Loose Lay Finished Area Rug at Communal Sofas with Non-Skid Backing - 14'6"" x 16'",1.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,CP-11A-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Flooring,CP-11B,"Loose Lay Finished Area Rug at Lounge Chairs with Non-Skid Backing - 4'6"" x 8'",1.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,CP-11B-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Tile,CP-12,"Carpet Tile at Meeting Rooms & Boardroom (24x24, 28 oz. with Attached
+Cushion/Pad Backing)",380.0,SYD,,QTY per Shaw Seaming Diagram: 362.67 SYDs,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,CP-12-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Flooring,CP-13,Broadloom Carpet at Stairwells - 12'W,350.0,SYD,,QTY per Shaw Seaming Diagram: 337 SYDs,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,CP-13-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Back of House,Tile,CP-13ALT,"Carpet Tile at Back of House (24x24, no attached pad, Ecoworx backing)",115.0,SYD,,QTY per Shaw Seaming Diagram: 106.67 SYDs,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,CP-13ALT-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Flooring,CPP-10,Carpet Pad for Broadloom on Stairwells - APPLIED ON LANDINGS ONLY,150.0,SYD,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,CPP-10-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Paint,PT-10 thru PT-24,"ALL Wall, Ceiling, Accent Wall, Door/Trim Paints - BY GC",,,,PROVIDED BY GENERAL CONTRACTOR,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,PT-10 thru PT-24-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Misc,RF-10,Rubber Flooring at Fitness Center - Sold in increments of 25',650.0,SF,,Estimated QTY per Plans takeoff: 614 SF,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,RF-10-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Back of House,Misc,RF-11,LVT Flooring at Employee Breakroom (7x48 planks),262.0,SF,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,RF-11-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Misc,SF-11,"Waffle Graphic at Pantry - OA DIMENSIONS: 42""W x 84""H (trimmable)",1.0,EA,,Elevation #5 on ID-601,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,SF-11-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Misc,SF-12,Metal Rail for Pantry,1.0,LOT,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,SF-12-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Wallpaper / Wallcovering,WC-10,Wallcovering at Guestroom Corridors & Upper Floor Elevator Lobbies,1740.0,LY,,WG33190956 - Estimated takeoff QTY: 426.6 LYDs per Floor x 4 FLs,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,WC-10-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Wallpaper / Wallcovering,WC-11,"Main/Typ. Public Area Wallcovering and Meeting Room Wallcovering + Meeting
+Rooms Air Walls",1080.0,LY,,"GOH 33296564 (202 LYDs for Boardroom, Breakout A/B, & Air Wall + 216
 LYDs for 1st floor corridor + 608 for Lobby/Breakfast, Meeting Rooms
-A/B)",6,WC-11-01-p06,,,,,,,,,,,,,,[],[]
-WC-12,Accent Wallcovering at Lobby/Breakfast (Columns/Bumpouts/Front Desk),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,180.0,LY,WG33296562,6,WC-12-01-p06,,,,,,,,,,,,,,[],[]
-WC-13,"Wallcovering at Retail ""Treat Shop"" and Public Restrooms",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,90.0,LY,HLTN2010 Lagoon (54.6 LYDs for Public Restrooms + 15 for treat shop),7,WC-13-01-p07,,,,,,,,,,,,,,[],[]
-WC-14,Accent Wallcovering at 1st FL Elevator Lobby & Garage Vestibule Lobby,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,60.0,LY,WG3313796 (34.6 LYDs at 1st floor Elevtor Lobby),7,WC-14-01-p07,,,,,,,,,,,,,,[],[]
-WC-15,Accent Wallcovering at Pantry & Meeting Room Millwork Niches,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,60.0,LY,KGH2101 Horizon Weave Butter (28.8 LYDs for Pantry Entry Wall),7,WC-15-01-p07,,,,,,,,,,,,,,[],[]
-WC-17,Main Wallcovering at Pantry,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,60.0,LY,HLTN2011 (estimated QTY needed per Takeoff: 40 LYDs),7,WC-17-01-p07,,,,,,,,,,,,,,[],[]
-WC-18,Wallcovering at Guest Laundry,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,60.0,LY,WG33112625 (37.33 LYDs needed per takeoff),7,WC-18-01-p07,,,,,,,,,,,,,,[],[]
-WC-19,Main Wallcovering at Fitness (2 of 4 walls),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,60.0,LY,NA-KIN-294 Infinite Blue (50.96 LYDs needed per takeoff),7,WC-19-01-p07,,,,,,,,,,,,,,[],[]
-WC-20,Accent Wallcovering at Fitness Center,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,30.0,LY,NA-KIN-001 Blue Hue,7,WC-20-01-p07,,,,,,,,,,,,,,[],[]
-WC-50,"Digital Mural Feature at Fitness Center - Wall Dimensions: 27'4""W x 9'H",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1.0,EA,,7,WC-50-01-p07,,,,,,,,,,,,,,[],[]
-WC-51CSTM,"Custom Digital Mural Feature Wall for Lobby - 7'9""W x 9'H",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1.0,EA,,7,WC-51CSTM-01-p07,,,,,,,,,,,,,,[],[]
-WP-10,"Main/Typ. Public Space Corner Guards - 1.5""wings x 12'H - Color: Gala - installed
-with WC-11, WC-17, WC-18",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,22.0,EA,,7,WP-10-01-p07,,,,,,,,,,,,,,[],[]
-WP-11,"Pantry Accent/Entrance Corner Guards - 1.5""wings x 12'H - Color: Beeswax - USED
-WITH WC-15 ONLY",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,2.0,EA,,7,WP-11-01-p07,,,,,,,,,,,,,,[],[]
-WP-12,"Corridor/Elevator Lobby Corner Guards (installed with WC-10 & WC-14) - 1.5""wings
-x 9'H - Color: Gala",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,43.0,EA,,7,WP-12-01-p07,,,,,,,,,,,,,,[],[]
-WP-13,"Corner Guard used with WC-12 Accent at Breakfast/Lobby - 1.5""wings x 12'H - Elm
-Gray Color",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,26.0,EA,"QTY AND CEILING HEIGHT TBV BY GC; Recommend 12'L and can be
-trimmed to any height needed",7,WP-13-01-p07,,,,,,,,,,,,,,[],[]
-WP-14,"Cornerguards at Retail and Public Restrooms (with WC-13) - 1.5""wings x 9'H - Color:
-Cadet Blue",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,,EA,"Per Drawings this WP-14 is not needed, WC-13 only has inside
-corners/wall-to-wall conditions",7,WP-14-01-p07,,,,,,,,,,,,,,[],[]
-WP-16,"Cornerguard at Fitness (with WC-20) - 1.5""wings x 9'H - Color: Blue Mist",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,1.0,EA,,7,WP-16-01-p07,,,,,,,,,,,,,,[],[]
-WP-14-CSTM,"Chair Rail at Corridors - 4""H, TA5 Colonial Gray Color",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,78.0,CTN,"40' per Carton (estimated 660 LF per Floor = 17 CTNs per Floor on Floors
-2-5 + 10 at first floor)",7,WP-14-CSTM-01-p07,,,,,,,,,,,,,,[],[]
-TA-23,Hooks at Public Restroom Stall Doors and Fitness,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,7.0,EA,,7,TA-23-01-p07,,,,,,,,,,,,,,[],[]
-TA-19/TA-20,"Surface-Mounted Baby Changing Station at Public Restrooms, Toilet Seat Cover
-Dispenser (surface mounted) - BY GC",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,,,"PROVIDED BY GENERAL CONTRACTOR (Innvision cannot purchase from
-Bobrick)",7,TA-19/TA-20-01-p07,,,,,,,,,,,,,,[],[]
-TP-01,Toilet Partitions - BY GC,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,Public Areas,,,,,PROVIDED BY GENERAL CONTRACTOR,7,TP-01-01-p07,,,,,,,,,,,,,,[],[]
+A/B)",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,WC-11-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Wallpaper / Wallcovering,WC-12,Accent Wallcovering at Lobby/Breakfast (Columns/Bumpouts/Front Desk),180.0,LY,,WG33296562,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,6,WC-12-01-p06,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Wallpaper / Wallcovering,WC-13,"Wallcovering at Retail ""Treat Shop"" and Public Restrooms",90.0,LY,,HLTN2010 Lagoon (54.6 LYDs for Public Restrooms + 15 for treat shop),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-13-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Wallpaper / Wallcovering,WC-14,Accent Wallcovering at 1st FL Elevator Lobby & Garage Vestibule Lobby,60.0,LY,,WG3313796 (34.6 LYDs at 1st floor Elevtor Lobby),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-14-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Meeting Rooms,Wallpaper / Wallcovering,WC-15,Accent Wallcovering at Pantry & Meeting Room Millwork Niches,60.0,LY,,KGH2101 Horizon Weave Butter (28.8 LYDs for Pantry Entry Wall),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-15-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Wallpaper / Wallcovering,WC-17,Main Wallcovering at Pantry,60.0,LY,,HLTN2011 (estimated QTY needed per Takeoff: 40 LYDs),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-17-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Back of House,Wallpaper / Wallcovering,WC-18,Wallcovering at Guest Laundry,60.0,LY,,WG33112625 (37.33 LYDs needed per takeoff),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-18-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Wallpaper / Wallcovering,WC-19,Main Wallcovering at Fitness (2 of 4 walls),60.0,LY,,NA-KIN-294 Infinite Blue (50.96 LYDs needed per takeoff),FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-19-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Wallpaper / Wallcovering,WC-20,Accent Wallcovering at Fitness Center,30.0,LY,,NA-KIN-001 Blue Hue,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-20-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Wallpaper / Wallcovering,WC-50,"Digital Mural Feature at Fitness Center - Wall Dimensions: 27'4""W x 9'H",1.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-50-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Wallpaper / Wallcovering,WC-51CSTM,"Custom Digital Mural Feature Wall for Lobby - 7'9""W x 9'H",1.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WC-51CSTM-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Wall Protection,WP-10,"Main/Typ. Public Space Corner Guards - 1.5""wings x 12'H - Color: Gala - installed
+with WC-11, WC-17, WC-18",22.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WP-10-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Wall Protection,WP-11,"Pantry Accent/Entrance Corner Guards - 1.5""wings x 12'H - Color: Beeswax - USED
+WITH WC-15 ONLY",2.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WP-11-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Wall Protection,WP-12,"Corridor/Elevator Lobby Corner Guards (installed with WC-10 & WC-14) - 1.5""wings
+x 9'H - Color: Gala",43.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WP-12-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Lobby & Breakfast,Wall Protection,WP-13,"Corner Guard used with WC-12 Accent at Breakfast/Lobby - 1.5""wings x 12'H - Elm
+Gray Color",26.0,EA,,"QTY AND CEILING HEIGHT TBV BY GC; Recommend 12'L and can be
+trimmed to any height needed",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WP-13-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Wall Protection,WP-14,"Cornerguards at Retail and Public Restrooms (with WC-13) - 1.5""wings x 9'H - Color:
+Cadet Blue",,EA,,"Per Drawings this WP-14 is not needed, WC-13 only has inside
+corners/wall-to-wall conditions",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WP-14-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Wall Protection,WP-16,"Cornerguard at Fitness (with WC-20) - 1.5""wings x 9'H - Color: Blue Mist",1.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WP-16-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Circulation,Wall Protection,WP-14-CSTM,"Chair Rail at Corridors - 4""H, TA5 Colonial Gray Color",78.0,CTN,,"40' per Carton (estimated 660 LF per Floor = 17 CTNs per Floor on Floors
+2-5 + 10 at first floor)",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,WP-14-CSTM-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Toilet Accessories,TA-23,Hooks at Public Restroom Stall Doors and Fitness,7.0,EA,,,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,TA-23-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Toilet Accessories,TA-19/TA-20,"Surface-Mounted Baby Changing Station at Public Restrooms, Toilet Seat Cover
+Dispenser (surface mounted) - BY GC",,,,"PROVIDED BY GENERAL CONTRACTOR (Innvision cannot purchase from
+Bobrick)",FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,TA-19/TA-20-01-p07,,,,,,,,,,,,,,[],[]
+Public Areas,Public Spaces,Tile,TP-01,Toilet Partitions - BY GC,,,,PROVIDED BY GENERAL CONTRACTOR,FINISHES,QTYS are Estimated and Must be Verified by GC prior to Ordering,,7,TP-01-01-p07,,,,,,,,,,,,,,[],[]
+Shared,Public Spaces,Construction Consumables,MISC-ADH-CG,Adhesive for Corner Guards Installation,55.0,EA,,QTY COVERS PUBLIC SPACE CORNERGUARDS,Install Matrix note line,,,4,MISC-ADH-CG-01-p04,,,,,,,,,,,,,,[],"[""consumable""]"
+Public Areas,Public Spaces,Artwork / Mirrors,EXISTING-ART-PUBREST,Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED,,,,Existing item – reuse (not a new purchase).,PUBLIC RESTROOMS (note),,,6,EXISTING-ART-PUBREST-01-p06,,,,,,,,,,,,,,[],"[""existing"", ""reuse""]"

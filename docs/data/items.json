@@ -2,7 +2,7 @@
   {
     "spec": "GR-100",
     "description": "Full Sofa Sleeper @ Guestroom (68\"W)",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -34,12 +34,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-101",
     "description": "Upholstered Task Chair at Desk",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -78,12 +80,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-102",
     "description": "Guestroom Lounge Chair (28\"W x 32\"D x 37\"H)",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -120,12 +124,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-103",
     "description": "Guestroom Armless Side Chair",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -153,12 +159,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-100F",
     "description": "COM at Sofa",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -182,12 +190,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-101F",
     "description": "COM Fabric at Task Chair (Bleach Cleanable)",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -211,12 +221,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-102F",
     "description": "COM Fabric at Lounge Chair",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -240,12 +252,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-103F",
     "description": "COM Fabric at Side Chair",
-    "category": "SEATING",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -269,12 +283,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "SEATING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-200",
     "description": "King Table Lamp - Matte Black Ceramic",
-    "category": "LIGHTING",
+    "category": "Tables",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -308,12 +324,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-200B",
     "description": "9W LED Bulbs at King Table Lamp - 1 per",
-    "category": "LIGHTING",
+    "category": "Tables",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -337,12 +355,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-200S",
     "description": "Attic Stock Lampshades for King Table Lamp",
-    "category": "LIGHTING",
+    "category": "Tables",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -366,12 +386,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-201",
     "description": "Queen Headboard Sconce - LED integrated (plug-in with 20\"L cordcover)",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -402,12 +424,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-202",
     "description": "King Headboard Sconce - LED integrated (plug-in with 20\"L cordcover)",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -440,12 +464,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-203",
     "description": "Guestroom Floor Lamp (with 3 Heads) - 68\"H",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -484,12 +510,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-203B",
     "description": "11W LED Bulb at Floor Lamp (E26, 2700K) - 3 per",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -513,12 +541,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-204",
     "description": "Vanity Light, 36\"W - 20W LED integrated lamping - HARDWIRED",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -557,12 +587,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-205",
     "description": "Desk Task Lamp - 7W LED integrated panel at pivoting head",
-    "category": "LIGHTING",
+    "category": "Tables",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -593,12 +625,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-250",
     "description": "Flush mount Ceiling Light at Guest Entry - 15\"Dia. - HARDWIRED",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -637,12 +671,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Entry"
   },
   {
     "spec": "GR-251",
     "description": "Flush mount Ceiling Light at Guest Bath - 15\"Dia. - HARDWIRED",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -681,12 +717,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-251B",
     "description": "9W LED Bulbs at Ceiling Fixtures (E26, 2700K) - 2 per",
-    "category": "LIGHTING",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -710,12 +748,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LIGHTING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-300",
     "description": "King Headboard with 2 layered Upholstered Panels - 83\"W x 41\"H",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -748,12 +788,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-301",
     "description": "Queen Headboard with 2 layered Upholstered Panels - 67\"W x 41\"H",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -784,12 +826,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-302",
     "description": "King Left Nightstand with Power Unit and Lower Door and upper Open Cubby -\n22\"W",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -820,12 +864,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-303",
     "description": "King Right Nightstand with Power Unit and Lower Door and upper Open Cubby -\n22\"W",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -856,12 +902,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-354",
     "description": "King Left Nightstand with Power Unit and Lower Door and upper Open Cubby -\n18\"W",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -888,12 +936,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-355",
     "description": "King Right Nightstand with Power Unit and Lower Door and upper Open Cubby -\n18\"W",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -920,12 +970,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-304",
     "description": "Queen Center Nightstand with (2) Power Units and Lower Door and upper Open\nCubby - 24\"W",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -956,12 +1008,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-305",
     "description": "King Platform Bed Base - 76\"W x 82\"L x 14\"H",
-    "category": "CASEGOODS",
+    "category": "Bedding",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -992,12 +1046,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-306",
     "description": "Queen Platform Bed Base - 60\"W x 82\"L x 14\"H",
-    "category": "CASEGOODS",
+    "category": "Bedding",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1026,12 +1082,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-307",
     "description": "Hospitality Unit with Open Cubby for Microwave and 1-Door Cabinet for Mini-\nFridge and Integrated Power Hub - 68\"W - 25\"OAD",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1058,12 +1116,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-309",
     "description": "Activity Table - 34\"Dia.",
-    "category": "CASEGOODS",
+    "category": "Tables",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1098,12 +1158,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-309ADA",
     "description": "Accessible Activity Table with 3 Legs - 40\"Dia.",
-    "category": "CASEGOODS",
+    "category": "Tables",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1132,12 +1194,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-310",
     "description": "TV Panel with cutout for wall mount - 34\"W x 24\"H",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1168,12 +1232,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-311",
     "description": "Entry Wall Hooks Panel - 20\"W x 3\"D x 3.5\"H",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1211,12 +1277,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Entry"
   },
   {
     "spec": "GR-312",
     "description": "Studio Suite Cantilivered/Floating Wall Shelf - 60\"W x 10\"D",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1247,12 +1315,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-313",
     "description": "C-Table at Studios (Black Metal Base with HPL inset top)",
-    "category": "CASEGOODS",
+    "category": "Tables",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1285,12 +1355,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-356",
     "description": "Hospitality Unit with Open Cubby for Microwave, 1-Door Cabinet for Mini-Fridge,\nIntegrated Power Hub, and Integrated Luggage Bench - 87\"W",
-    "category": "CASEGOODS",
+    "category": "Seating",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1303,7 +1375,7 @@
     "attic_stock": null,
     "total": 75.0,
     "uom": "EA",
-    "notes": "37 Right, 38 Left - Existing Fridge = 17”W x 25”H x 22”D // Existing\nMicrowave: 18\"W x 11\"H x 12.5\"D",
+    "notes": "37 Right, 38 Left - Existing Fridge = 17\u201dW x 25\u201dH x 22\u201dD // Existing\nMicrowave: 18\"W x 11\"H x 12.5\"D",
     "source_page": 1,
     "item_id": "GR-356-01-p01",
     "vendor": "",
@@ -1320,12 +1392,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-359",
     "description": "Luggage Bench with Slatted Screen Wall Back and Side Panel and Hanging hooks, 1\nBottom Drawer - 37.75\"W x 84\"H",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1356,12 +1430,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-360",
     "description": "Luggage Bench w/ Back Panel and 3 Hooks at King/King EXT/ADA QQ RIS",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1389,12 +1465,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-364",
     "description": "Freestanding Towel Caddy at King ADA Studio",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1420,12 +1498,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-370C",
     "description": "Storage Unit at QQ ADA RIS Room Type - 2 Drawers, open shelf - 46\"W",
-    "category": "CASEGOODS",
+    "category": "Guestroom FF&E",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1451,12 +1531,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-317",
     "description": "Vanity with Quartz Top, Centered Sink cutout, 4\"H Backsplash and (2) 12\"W Towel\nBars at Front Apron, Base: Legs are Metal with Towel Shelf - 61.25\"W",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1480,12 +1562,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-316",
     "description": "Vanity with Quartz Top, Centered Sink cutout, 4\"H Backsplash and (2) 12\"W Towel\nBars at Front Apron, Base: Legs are Metal with Towel Shelf - 58\"W",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1509,12 +1593,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-316B",
     "description": "56\"W Vanity with Quartz Top, Centered Sink cutout, 4\"H Backsplash and (2) 12\"W\nTowel Bars at Front Apron, Base: Legs are Metal - ROOM #128",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1538,12 +1624,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-317B",
     "description": "66\"W Vanity with Quartz Top, Centered Sink cutout, 4\"H Backsplash and (2) 12\"W\nTowel Bars at Front Apron, Base: Legs are Metal - ROOM #134",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1567,12 +1655,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-316ADA",
     "description": "58.5\"W Vanity with Quartz Top, Centered Sink Cutout, 4\"H Backsplah and (2) 12\"\nTowel Bars at Front Apron, (2) L/R Open Cubbies and Slanted Front Access Panel -\nROOM #414",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1596,12 +1686,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-361ADA",
     "description": "ADA Vanity with Quartz Top, Offset Sink cutout, 4\"H Backsplash and (1) 12\"W Towel\nBar at Front Apron, Base: Legs are Metal with (1) Open Cubby opposite sink side and\nangled front Panel - 49.5\"W (ROOM #s 208, 308, 314, 408)",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1625,12 +1717,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-361BADA",
     "description": "ADA Vanity with Quartz Top, Offset Sink cutout, 4\"H Backsplash + 1 Side Splash, and\n(1) 12\"W Towel Bar at Front Apron, Base: Legs are Metal with (1) Open Cubby\nopposite sink side and angled front Panel - 49.5\"W (ROOM #132)",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1654,12 +1748,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-316BADA",
     "description": "66\"W Vanity with Quartz Top, Centered Sink Cutout, 4\"H Backsplah and (2) 12\"\nTowel Bars at Front Apron, (2) L/R Open Cubbies and Slanted Front Access Panel -\nROOM #211",
-    "category": "CASEGOODS",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1683,12 +1779,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "LEFT SINK",
     "description": "Studio Suite Wet Bar Cabinetry with Quartz Top - 76.5\"W - with 4\"H Backsplash and\n(2) Side Splashes, Offset Sink cutout - 3 Drawers in Base Cabinetry + 1 open cubby\nfor microwave and 2 drawers",
-    "category": "CASEGOODS",
+    "category": "Misc",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1712,12 +1810,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "RIGHT SINK",
     "description": "Studio Suite Wet Bar Cabinetry with Quartz Top - 76.5\"W - with 4\"H Backsplash and\n(2) Side Splashes, Offset Sink cutout - 3 Drawers in Base Cabinetry + 1 open cubby\nfor microwave and 2 drawers",
-    "category": "CASEGOODS",
+    "category": "Misc",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1741,12 +1841,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "RM #436",
     "description": "Studio Suite Wet Bar Cabinetry with Quartz Top - 70-5/8\"W - with 4\"H Backsplash\nand (2) Side Splashes, Offset Sink cutout - 3 Doors in Base Cabinetry + 1 open\ncubby for microwave and 2 drawers",
-    "category": "CASEGOODS",
+    "category": "Misc",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1770,12 +1872,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "RM #211",
     "description": "Studio Suite Wet Bar Cabinetry with Quartz Top - 77.75\"W - with 4\"H Backsplash\nand (2) Side Splashes, Offset Right Sink cutout - 4 Drawers in Base Cabinetry + 1\nLarge Door Cabinet and Open Sink Area with ADA compliant Angled access panel",
-    "category": "CASEGOODS",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1799,12 +1903,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "RM #132",
     "description": "Studio Suite Wet Bar Cabinetry with Quartz Top - 86\"W - with 4\"H Backsplash and\n(2) Side Splashes, Offset Sink cutout - 4 Drawers in Base Cabinetry + 1 Large Door\nCabinet and Open Sink Area with ADA compliant Angled access panel",
-    "category": "CASEGOODS",
+    "category": "Lighting",
     "section_note": null,
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -1828,12 +1934,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CASEGOODS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-400",
     "description": "Center Draw Sheer & Blackout (short/traversing - finishes 1/2\" above PTAC) - ceiling\nmounted with painted wood cornice (extends 12\" past each window side) -\nhardware included: (4) batons, double architrac",
-    "category": "WINDOW TREATMENT",
+    "category": "Paint",
     "section_note": "If Ceilings are higher than 96\"H, treatments to be wall mounted at 96\"AFF",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1863,12 +1971,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "WINDOW TREATMENT",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-400ADA",
     "description": "Center Draw Sheer & Blackout (short/traversing - finishes 1/2\" above PTAC) - ceiling\nmounted with painted wood cornice (extends 12\" past each window side) -\nhardware included: (4) ADA looped batons, double architrac",
-    "category": "WINDOW TREATMENT",
+    "category": "Paint",
     "section_note": "If Ceilings are higher than 96\"H, treatments to be wall mounted at 96\"AFF",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1896,12 +2006,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "WINDOW TREATMENT",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-450",
     "description": "One Way Dray Sheer & Blackout (short/traversing - finishes 1/2\" above PTAC) -\nceiling mounted with painted wood cornice (extends 12\" past window on one side\nand 6\" past on the other) - hardware included: (2) batons, double architrac",
-    "category": "WINDOW TREATMENT",
+    "category": "Paint",
     "section_note": "If Ceilings are higher than 96\"H, treatments to be wall mounted at 96\"AFF",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1931,12 +2043,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "WINDOW TREATMENT",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-450ADA",
     "description": "One Way Dray Sheer & Blackout (short/traversing - finishes 1/2\" above PTAC) -\nceiling mounted with painted wood cornice (extends 12\" past window on one side\nand 6\" past on the other) - hardware included: (2) ADA looped batons, double\narchitrac",
-    "category": "WINDOW TREATMENT",
+    "category": "Paint",
     "section_note": "If Ceilings are higher than 96\"H, treatments to be wall mounted at 96\"AFF",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -1962,12 +2076,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "WINDOW TREATMENT",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-500",
     "description": "Bedroom/Main Guestroom Artwork - SET OF 3 framed Prints",
-    "category": "ARTWORK & MIRRORS",
+    "category": "Artwork / Mirrors",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2006,12 +2122,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ARTWORK & MIRRORS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-501",
     "description": "Custom Regional Art at Guest Bath - Framed Print 19.75\"W x 26.75\"H",
-    "category": "ARTWORK & MIRRORS",
+    "category": "Artwork / Mirrors",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2050,12 +2168,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ARTWORK & MIRRORS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-502",
     "description": "Full Length Guestroom Mirror - Sap Walnut Frame - 24\"W x 67\"H",
-    "category": "ARTWORK & MIRRORS",
+    "category": "Artwork / Mirrors",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2094,12 +2214,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ARTWORK & MIRRORS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-503",
     "description": "Framed Vanity Mirror - 48\"W x 36\"H (Sap Oak Frame finish)",
-    "category": "ARTWORK & MIRRORS",
+    "category": "Artwork / Mirrors",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2135,12 +2257,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ARTWORK & MIRRORS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-550",
     "description": "Artwork at Wet Bar in Studio Suites - 42\"W x 30\"H, framed print",
-    "category": "ARTWORK & MIRRORS",
+    "category": "Artwork / Mirrors",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2172,12 +2296,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ARTWORK & MIRRORS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-551",
     "description": "Artwork at Bedrooms - 36\"W x 22\"H, framed print",
-    "category": "ARTWORK & MIRRORS",
+    "category": "Artwork / Mirrors",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2209,12 +2335,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ARTWORK & MIRRORS",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-552",
     "description": "Framed Vanity Mirror - 40\"W x 36\"H (Sap Oak Frame finish)",
-    "category": "ARTWORK & MIRRORS",
+    "category": "Artwork / Mirrors",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2242,12 +2370,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ARTWORK & MIRRORS",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-600",
     "description": "King Mattress ONLY - Mesmerize (1-sided) 76x80",
-    "category": "BEDDING",
+    "category": "Bedding",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2280,12 +2410,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "BEDDING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-601",
     "description": "Queen Mattress ONLY - Mesmerize (1-sided) 60x80",
-    "category": "BEDDING",
+    "category": "Bedding",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2316,12 +2448,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "BEDDING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-600ADA",
     "description": "5.5\"H Boxspring for King Mattress in ADA Rooms - 2 per required",
-    "category": "BEDDING",
+    "category": "Bedding",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2348,12 +2482,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "BEDDING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-601ADA",
     "description": "5.5\"H Boxspring for Queen Mattress in ADA Rooms",
-    "category": "BEDDING",
+    "category": "Bedding",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2380,12 +2516,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "BEDDING",
+    "zone": "Guestroom"
   },
   {
     "spec": "ADA-6556BG",
     "description": "ADA Bed Frame - Adjustable Size, fits Kings or Queens - 7.25\"H",
-    "category": "BEDDING",
+    "category": "Tables",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2414,12 +2552,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "BEDDING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-604ADA",
     "description": "ADA King Bedskirt - 76\"W x 80\"L x 12.5\"Drop",
-    "category": "BEDDING",
+    "category": "Bedding",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2446,12 +2586,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "BEDDING",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-605ADA",
     "description": "ADA Queen Bedskirt - 60\"W x 80\"L x 12.5\"Drop",
-    "category": "BEDDING",
+    "category": "Bedding",
     "section_note": "Installation Services (4 trips/phases) - accomodations provided on site",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2478,12 +2620,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "BEDDING",
+    "zone": "Guestroom"
   },
   {
     "spec": "#2001 (P-02)",
     "description": "Rectangular Undermount Sink",
-    "category": "FINISHES & FIXTURES",
+    "category": "Misc",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2507,12 +2651,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "#2321 (P-03)",
     "description": "ADA Rectangular Undermount Sink",
-    "category": "FINISHES & FIXTURES",
+    "category": "Misc",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2536,12 +2682,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "P-12",
     "description": "Stainless Steel Wet Bar Sink",
-    "category": "FINISHES & FIXTURES",
+    "category": "Plumbing",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2565,12 +2713,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "P-13",
     "description": "ADA Stainless Steel Wet Bar Sink - Elkay Model #EELUHAD121245",
-    "category": "FINISHES & FIXTURES",
+    "category": "Plumbing",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2594,12 +2744,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "P-04",
     "description": "Vanity Faucet - Neo Single Lever",
-    "category": "FINISHES & FIXTURES",
+    "category": "Plumbing",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2623,12 +2775,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guest Bath"
   },
   {
     "spec": "P-14",
     "description": "Wet Bar Faucet - Kohler Cru, polished chrome (No pull-down)",
-    "category": "FINISHES & FIXTURES",
+    "category": "Plumbing",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2652,12 +2806,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "T-01",
     "description": "Floor Tile at Guest Bath/Entry - 12\" x 24\"",
-    "category": "FINISHES & FIXTURES",
+    "category": "Tile",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2696,12 +2852,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guest Bath"
   },
   {
     "spec": "B-01",
     "description": "Bullnose Tile Base at Guest Bath ONLY - 4\"H x 24\"L (entry recieves B-02)",
-    "category": "FINISHES & FIXTURES",
+    "category": "Tile",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2740,12 +2898,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guest Bath"
   },
   {
     "spec": "B-02 (supplier C)",
     "description": "Vinyl Millwork Base at Guestroom/Guest Entry - 4.5\"H - Oyster Color",
-    "category": "FINISHES & FIXTURES",
+    "category": "Tile",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2769,12 +2929,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Entry"
   },
   {
     "spec": "CP-01",
     "description": "Guestroom Carpet Tile (24x24) with Attached Cushion/Pad Backing, MONOLITHIC\nINSTALL",
-    "category": "FINISHES & FIXTURES",
+    "category": "Tile",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2798,12 +2960,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "B-02A",
     "description": "Adhesive for Vinyl Millwork Base - (TUBES)",
-    "category": "FINISHES & FIXTURES",
+    "category": "Construction Consumables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2827,12 +2991,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guest Bath"
   },
   {
     "spec": "CP-01A",
     "description": "Adhesive for Carpet Tile Install - QTY COVERS PUBLIC SPACE TOO, 4GAL",
-    "category": "FINISHES & FIXTURES",
+    "category": "Construction Consumables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2856,12 +3022,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "TH-01",
     "description": "Vinyl Threshold at Guestroom Entry and Connecting Doors - BY GC",
-    "category": "FINISHES & FIXTURES",
+    "category": "Tile",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2885,12 +3053,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Entry"
   },
   {
     "spec": "TS-01",
     "description": "Schluter Metal Edge Trim/Transition Strip - PROVIDED BY GC",
-    "category": "FINISHES & FIXTURES",
+    "category": "Tile",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -2914,12 +3084,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "WC-01",
     "description": "Accent Wallcovering at Headboard Wall",
-    "category": "FINISHES & FIXTURES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -2958,12 +3130,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "VWC-02",
     "description": "Wallcovering at Guest Bath",
-    "category": "FINISHES & FIXTURES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -3002,12 +3176,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guest Bath"
   },
   {
     "spec": "WP-01",
     "description": "Corner Guard at Guestroom - 3/4\"wings x 8'H - Color: Feather #0238",
-    "category": "FINISHES & FIXTURES",
+    "category": "Wall Protection",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -3046,12 +3222,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guestroom"
   },
   {
     "spec": "WP-02",
     "description": "Corner Guard at Guest Bath - 3/4\"wings x 8'H - Color: 0101 Designer White",
-    "category": "FINISHES & FIXTURES",
+    "category": "Wall Protection",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -3080,12 +3258,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES & FIXTURES",
+    "zone": "Guest Bath"
   },
   {
     "spec": "TA-24",
     "description": "Guest Bath Robe/Towel Wall Hooks - Sky Blue Color (2 per bath)",
-    "category": "Adhesive for Corner Guards Installation",
+    "category": "Toilet Accessories",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -3124,12 +3304,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "Adhesive for Corner Guards Installation",
+    "zone": "Guest Bath"
   },
   {
     "spec": "PT-01 thru PT-50",
     "description": "ALL Paint Finishes for Guestroom Walls, Ceiling, Trim - PROVIDED BY GC",
-    "category": "Adhesive for Corner Guards Installation",
+    "category": "Paint",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -3153,12 +3335,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "Adhesive for Corner Guards Installation",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-700",
     "description": "55\" Guestroom TV - LG #55UN560H0UA",
-    "category": "ANCILLARY",
+    "category": "Guestroom FF&E",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -3197,12 +3381,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ANCILLARY",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-701",
     "description": "Pull Out/Articulating Wall Mount at TV - Peerless #HPF650",
-    "category": "ANCILLARY",
+    "category": "Guestroom FF&E",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -3233,12 +3419,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ANCILLARY",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-704",
     "description": "Swivel Deck-Mount at Desk/Console for TV - Peerless #PTS4x4",
-    "category": "ANCILLARY",
+    "category": "Tables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {
@@ -3271,12 +3459,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ANCILLARY",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-900",
     "description": "Guest Bath Trash Can",
-    "category": "ANCILLARY",
+    "category": "Guestroom FF&E",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -3300,12 +3490,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ANCILLARY",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-900L",
     "description": "Guest Bath Trash Can Liner",
-    "category": "ANCILLARY",
+    "category": "Guestroom FF&E",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -3329,12 +3521,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ANCILLARY",
+    "zone": "Guest Bath"
   },
   {
     "spec": "GR-901",
     "description": "Guestroom Trash and Recycling Wastebasket (dual) - Cordoba, Black",
-    "category": "ANCILLARY",
+    "category": "Guestroom FF&E",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -3358,12 +3552,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ANCILLARY",
+    "zone": "Guestroom"
   },
   {
     "spec": "GR-901L",
     "description": "Guestroom Trash and Recycling Wastebasket (dual) - LINER",
-    "category": "ANCILLARY",
+    "category": "Guestroom FF&E",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
     "area": "Guestrooms",
     "room_type_quantities": {},
@@ -3387,14 +3583,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "ANCILLARY",
+    "zone": "Guestroom"
   },
   {
     "spec": "PA-100",
     "description": "Upholstered Dining Chair",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 8.0,
@@ -3416,14 +3614,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-101",
     "description": "Wood Frame Dining Chair",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 20.0,
@@ -3445,14 +3645,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-102",
     "description": "Low Back Counterstool at Existing Communal Table bi-level ledge - 22\"SH (5 AT\nCOMMUNAL LEDGE, 1 AT GUEST LAUNDRY)",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 6.0,
@@ -3474,14 +3676,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Back of House"
   },
   {
     "spec": "PA-103",
     "description": "Lobby 2-Sided Communal Sofa - 162\"W with 6 integrated power units; 1 SET is\nmade up of 6 units",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 1.0,
@@ -3503,14 +3707,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-106",
     "description": "Lounge Chair with Tapered Legs - REMOVED IN UPDATED DWG SET",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": null,
@@ -3532,14 +3738,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-107",
     "description": "Lounge Chair at Breakfast Area",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 6.0,
@@ -3561,14 +3769,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-110",
     "description": "Swivel Lounge Chair at Breakfast Area",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 2.0,
@@ -3590,14 +3800,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-111",
     "description": "Ottoman with wood base at Breakfast Area",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 1.0,
@@ -3619,14 +3831,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-150",
     "description": "Barstool at Bi-Level Communal Table Ledge - 31\"SH (REMOVED)",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Seating",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": null,
@@ -3648,14 +3862,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-201",
     "description": "Lobby Pendant with Multiple Heads - adjustable length and height",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Tables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 4.0,
@@ -3677,14 +3893,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-201B",
     "description": "5W LED Bulbs (E26, 2700K) - 8 per pendant",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Lighting",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": 4.0,
     "total": 36.0,
@@ -3706,14 +3924,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-202",
     "description": "Typ. Public Space LED Wall Sconce at 1st Floor - 14W Integrated LED",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Lighting",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": 1.0,
     "total": 20.0,
@@ -3735,14 +3955,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-203",
     "description": "Decorative Pendants at Pantry",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Lighting",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 3.0,
@@ -3764,14 +3986,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-203B",
     "description": "LED Bulbs at Pantry Pendants (9W)",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Lighting",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 3.0,
@@ -3793,14 +4017,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-301",
     "description": "2-Top Dining Table (24x30) - Sap Walnut HPL Top, Black Base",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Tables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 6.0,
@@ -3822,14 +4048,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-303ADA",
     "description": "ADA Dining Table (60x30) - Sap Walnut HPL Top, (2) T-Foot Bases",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Tables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 1.0,
@@ -3851,14 +4079,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-304",
     "description": "Tea Height Table at Breakfast Area - 30\"Dia. (Quartz Top)",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Tables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 3.0,
@@ -3880,14 +4110,16 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-309",
     "description": "Side Accent C-Table at Lobby/Breakfast",
-    "category": "LOBBY & BREAKFAST",
+    "category": "Tables",
     "section_note": "*GC MUST CONFIRM QTYS ON FINISHES PROVIDED BY INNVISION*",
-    "area": "Guestrooms",
+    "area": "Public Areas",
     "room_type_quantities": {},
     "attic_stock": null,
     "total": 1.0,
@@ -3909,12 +4141,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "LOBBY & BREAKFAST",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-310",
     "description": "Printer Cabinet Unit - 24\"W",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -3938,12 +4172,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-311",
     "description": "2-Top Dining Table (24x30) - Mangalore Mango HPL Top, Black Base",
-    "category": null,
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -3967,12 +4203,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-351",
     "description": "ADA Dining Table at Breakfast - 36x36 (4 legs with clearance)",
-    "category": null,
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -3996,12 +4234,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-312",
     "description": "Retail/Market Shelving Millwork Units - A through D",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4025,12 +4265,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-353",
     "description": "Window Ledge Seating - 120\"W x 24\"D x 34\"H (counter height)",
-    "category": null,
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4054,12 +4296,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-315CSTM",
     "description": "Custom Hospitality Station with Quartz Top - 84\"W",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4083,12 +4327,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-315A",
     "description": "Buffet/Breakfast Servery Cabinetry with Quartz Tops",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4112,12 +4358,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-315B",
     "description": "Cereal Cabinetry with Quartz Tops at Breakfast Pantry (102\"W)",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4141,12 +4389,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-315C",
     "description": "Waffle Making Area Cabinetry with Quartz Top",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4170,12 +4420,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-315D",
     "description": "Buffet Island Cabinetry with Quartz Top",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4199,12 +4451,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-315E",
     "description": "Juice Area Cabinetry with Quartz Top",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4228,12 +4482,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-400",
-    "description": "Inside Mount Sheer Roller Shade at Lobby/Breakfast- Inside Mounted with 4\"H\nFascia, painted to match #SW7671 On the Rocks - Manual controls/SS bead chain\nwith clutch. Sheer Fabric is graded in: 2 Windows are 72”W x 130”H, 1 Window is\n60”W x 130”H",
-    "category": null,
+    "description": "Inside Mount Sheer Roller Shade at Lobby/Breakfast- Inside Mounted with 4\"H\nFascia, painted to match #SW7671 On the Rocks - Manual controls/SS bead chain\nwith clutch. Sheer Fabric is graded in: 2 Windows are 72\u201dW x 130\u201dH, 1 Window is\n60\u201dW x 130\u201dH",
+    "category": "Paint",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4257,12 +4513,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-502",
     "description": "Artwork at Lobby - 48\"W x 30\"H",
-    "category": null,
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4286,12 +4544,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-503",
     "description": "Artwork at 1st Floor Elevator Lobby - SET OF 2, 30x42 each",
-    "category": null,
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4315,12 +4575,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Circulation"
   },
   {
     "spec": "PA-504A/B/C",
     "description": "Coffee Cup Graphics Artwork at Pantry - SET OF 3, 18x18 each",
-    "category": null,
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4344,12 +4606,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-505",
     "description": "Custom Artwork at Breakfast Area - 60\"W x 42\"H",
-    "category": null,
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4373,12 +4637,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-506",
     "description": "Custom Artwork at Breakfast Area - 36\"W x 36\"H, SET OF 2",
-    "category": null,
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4402,12 +4668,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-550",
     "description": "Wall-Mounted Moment (Feature) at Front Desk - 8'7\"W x 42\"OAH",
-    "category": null,
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4431,12 +4699,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-800",
     "description": "55\" TVs throughout Public Space: (2) at Meeting Room, (2) at Breakfast, (1) at\nBoardroom, (2) at Breakout Meeting Rooms, (1) at Fitness",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4460,12 +4730,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-801",
     "description": "Pull-Out/Articulating Wall Mount for 55\" TVs - #HPF650",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4489,12 +4761,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-551",
     "description": "Artwork at Hospitality Station - 45.5\"W x 16.5\"H",
-    "category": null,
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4518,12 +4792,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Public Spaces"
   },
   {
     "spec": "PA-900A/B/C",
     "description": "Accessory Sets at Breakfast Area/Pantry",
-    "category": null,
+    "category": "Public Area FF&E",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4547,12 +4823,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": null,
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "PA-112",
     "description": "Omega II Stack Chair at Meeting Room with COM Fabric",
-    "category": "MEETING SPACES",
+    "category": "Seating",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4576,12 +4854,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-112F",
     "description": "COM Fabric at Meeting Room Stack Chairs",
-    "category": "MEETING SPACES",
+    "category": "Seating",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4605,12 +4885,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-113-CST",
     "description": "Boardroom Task Chairs",
-    "category": "MEETING SPACES",
+    "category": "Seating",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4634,12 +4916,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-317",
     "description": "Boardroom Table with Integrated Power Hubs - 240\"W x 60\"D",
-    "category": "MEETING SPACES",
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4663,12 +4947,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-204",
     "description": "5-head Decorative Pendant at Boardroom - 48\"W",
-    "category": "MEETING SPACES",
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4692,12 +4978,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-204B",
     "description": "7W A15 2700K Bulbs for Boardroom Pendants",
-    "category": "MEETING SPACES",
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4721,12 +5009,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-314",
     "description": "Meeting Room Folding Table - 72\"W x 18\"D",
-    "category": "MEETING SPACES",
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4750,12 +5040,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-552",
     "description": "Artwork at Breakout Room A - 36x36, Framed Paper Print",
-    "category": "MEETING SPACES",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4779,12 +5071,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-553",
     "description": "Artwork at Breakout Room B - 36x36, Framed Paper Print",
-    "category": "MEETING SPACES",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4808,12 +5102,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-554",
     "description": "Artwork at Boardroom - Canvas Prints in Floater Frames - TRIPTYCH; Each Panel is\n27\"W x 42\"H (OAW of 90\")",
-    "category": "MEETING SPACES",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4837,12 +5133,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-557",
     "description": "Artwork at Boardroom Counter, Canvas in Floater Frame - 42\"W x 30\"H",
-    "category": "MEETING SPACES",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4866,12 +5164,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-560",
     "description": "Artwork at Meeting Room A Alcove - 36x36, Framed Paper Print",
-    "category": "MEETING SPACES",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4895,12 +5195,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-561",
     "description": "Artwork at Meeting Room B Alcove - 36x36, Framed Paper Print",
-    "category": "MEETING SPACES",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4924,12 +5226,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-562",
     "description": "Artwork at Meeting Rooms - 42x42, Framed Paper Prints - SET OF 4",
-    "category": "MEETING SPACES",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4953,12 +5257,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "MEETING SPACES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "PA-260",
     "description": "LED Vanity Light at Public Restrooms - 24\"W (one above each sink)",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -4982,12 +5288,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Pool"
   },
   {
     "spec": "PA-400",
     "description": "Inside Mount Sheer Roller Shade at Fitness (windows face interior corridor) -\nWindows are 60\"W x 72\"H",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Window Treatment",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5011,12 +5319,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-316",
     "description": "Fitness Center Towel Station with quartz top - 82\"W x 24\"D x 34\"H",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5040,12 +5350,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Pool"
   },
   {
     "spec": "P-17",
     "description": "Sensor/Touchless Vanity Faucet",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Plumbing",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5069,12 +5381,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Pool"
   },
   {
     "spec": "P-19",
     "description": "Employee Breakroom Faucet",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Plumbing",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5098,12 +5412,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Back of House"
   },
   {
     "spec": "P-23",
     "description": "Touchless Deck Mounted Soap Dispenser",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Plumbing",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5127,12 +5443,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Pool"
   },
   {
     "spec": "P-18",
     "description": "Drop-In Stainless Steel Sink at Employee Breakroom",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Plumbing",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5156,12 +5474,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Back of House"
   },
   {
     "spec": "PA-508",
     "description": "Framed Vanity Mirror at Public Restrooms, Employee RR, and Pool Restroom - 24\"W\nx 36\"H",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5185,12 +5505,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Pool"
   },
   {
     "spec": "PA-509",
     "description": "Framed Mirror at Fitness (above towel console) - 60\"W x 30\"H",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Toilet Accessories",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5214,12 +5536,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Pool"
   },
   {
     "spec": "MR-10",
     "description": "Plate Glass Wall at Fitness - BY GC",
-    "category": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "category": "Misc",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5243,12 +5567,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "PUBLIC RESTROOMS, FITNESS, BACK OF HOUSE, POOL",
+    "zone": "Pool"
   },
   {
     "spec": "OF-702",
     "description": "Darwin Dining Armchair at Pool - Green",
-    "category": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "category": "Seating",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5272,12 +5598,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "zone": "Pool"
   },
   {
     "spec": "OF-703",
     "description": "Pool Side Lounge Chair - Maple Red",
-    "category": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "category": "Seating",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5301,12 +5629,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "zone": "Pool"
   },
   {
     "spec": "OF-705",
     "description": "Two-Top Pool Table - Cement Finish (24x32)",
-    "category": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5330,12 +5660,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "zone": "Pool"
   },
   {
     "spec": "OF-707",
     "description": "Yard Side Table - Black Finish",
-    "category": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5359,12 +5691,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "zone": "Pool"
   },
   {
     "spec": "OF-708",
     "description": "Radius Matrix Side Table - Bright Sandstone Finish",
-    "category": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5388,12 +5722,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "zone": "Pool"
   },
   {
     "spec": "PA-250",
     "description": "Corridor Wall Sconce",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5417,12 +5753,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-250B",
     "description": "4.5W T10 LED Bulb for Corridor Sconces - 2 per",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5446,12 +5784,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-251",
     "description": "Flush Mount Corridor Ceiling Light - 17\"Dia.",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5475,12 +5815,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-251B",
     "description": "9W LED Bulbs for Ceiling Lights - 3 per",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Lighting",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5504,12 +5846,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-300",
     "description": "Console Table at Upper Floor Elevator Lobbies - 52\"W",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Tables",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5533,12 +5877,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-400",
     "description": "Inside Mount Sheer Roller Shade at Corridors - 1 per Floor, Floors 2-5",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Window Treatment",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5562,12 +5908,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-500A",
     "description": "Artwork at Elevator Lobby - Floor 2 - Set of 3 Framed Custom Prints",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5591,12 +5939,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-500B",
     "description": "Artwork at Elevator Lobby - Floor 3 - Set of 3 Framed Custom Prints",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5620,12 +5970,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-500C",
     "description": "Artwork at Elevator Lobby - Floor 4 - Set of 3 Framed Custom Prints",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5649,12 +6001,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "PA-500D",
     "description": "Artwork at Elevator Lobby - Floor 5 - Set of 3 Framed Custom Prints",
-    "category": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "category": "Artwork / Mirrors",
     "section_note": null,
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5678,12 +6032,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "CIRCULATION: CORRIDORS/ELEVATOR LOBBIES/STAIRWELLS",
+    "zone": "Circulation"
   },
   {
     "spec": "B-10",
     "description": "Bullnose Tile Base at Public Areas (Typ.) - 4\"H x 24\"L",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5707,12 +6063,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "B-12",
     "description": "Bullnose Tile Base at Pool Restroom - 4\"H x 24\"L",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5736,12 +6094,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Pool"
   },
   {
     "spec": "T-10",
     "description": "Main Public Space Floor Tile (Typ.) - 12x24",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5765,12 +6125,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "T-12",
     "description": "Floor and Wainscot Tile at Pool - 12x24",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5794,12 +6156,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Pool"
   },
   {
     "spec": "T-13",
     "description": "Bullnose Tile Wainscot Cap at Pool Wall Tile - 4\"H x 24\"L",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5823,12 +6187,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Pool"
   },
   {
     "spec": "T-14",
     "description": "Wall Tile at Pantry - 3x12",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5852,12 +6218,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "T-15",
     "description": "Wall Tile at Public and Pool Restrooms Wet Wall(s) - 4x12",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5881,12 +6249,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Pool"
   },
   {
     "spec": "B-13",
     "description": "Vinyl Millwork Base at Corridors and Employee Breakroom - 4.5\"H",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5910,12 +6280,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "B-14",
     "description": "Vinyl Millwork Base at Meeting Rooms - 4.5\"H",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5939,12 +6311,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "B-15",
     "description": "Vinyl Coved Base at Back of House - 4\"H",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5968,12 +6342,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Back of House"
   },
   {
     "spec": "B-15ALT",
     "description": "4\"H Solid Carpet Base at Stairwell Landings",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -5997,12 +6373,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "B-16",
     "description": "Vinyl Millwork Base at Fitness Center - 4.5\"H",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6026,12 +6404,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "CP-10",
     "description": "Carpet Tile at Corridors (24x24, 28 oz. with Attached Cushion/Pad Backing)",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6055,12 +6435,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "CP-11A",
     "description": "Loose Lay Finished Area Rug at Communal Sofas with Non-Skid Backing - 14'6\" x 16'",
-    "category": "FINISHES",
+    "category": "Flooring",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6084,12 +6466,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "CP-11B",
     "description": "Loose Lay Finished Area Rug at Lounge Chairs with Non-Skid Backing - 4'6\" x 8'",
-    "category": "FINISHES",
+    "category": "Flooring",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6113,12 +6497,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "CP-12",
     "description": "Carpet Tile at Meeting Rooms & Boardroom (24x24, 28 oz. with Attached\nCushion/Pad Backing)",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6142,12 +6528,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "CP-13",
     "description": "Broadloom Carpet at Stairwells - 12'W",
-    "category": "FINISHES",
+    "category": "Flooring",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6171,12 +6559,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "CP-13ALT",
     "description": "Carpet Tile at Back of House (24x24, no attached pad, Ecoworx backing)",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6200,12 +6590,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Back of House"
   },
   {
     "spec": "CPP-10",
     "description": "Carpet Pad for Broadloom on Stairwells - APPLIED ON LANDINGS ONLY",
-    "category": "FINISHES",
+    "category": "Flooring",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6229,12 +6621,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "PT-10 thru PT-24",
     "description": "ALL Wall, Ceiling, Accent Wall, Door/Trim Paints - BY GC",
-    "category": "FINISHES",
+    "category": "Paint",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6258,12 +6652,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "RF-10",
     "description": "Rubber Flooring at Fitness Center - Sold in increments of 25'",
-    "category": "FINISHES",
+    "category": "Misc",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6287,12 +6683,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "RF-11",
     "description": "LVT Flooring at Employee Breakroom (7x48 planks)",
-    "category": "FINISHES",
+    "category": "Misc",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6316,12 +6714,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Back of House"
   },
   {
     "spec": "SF-11",
     "description": "Waffle Graphic at Pantry - OA DIMENSIONS: 42\"W x 84\"H (trimmable)",
-    "category": "FINISHES",
+    "category": "Misc",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6345,12 +6745,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "SF-12",
     "description": "Metal Rail for Pantry",
-    "category": "FINISHES",
+    "category": "Misc",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6374,12 +6776,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "WC-10",
     "description": "Wallcovering at Guestroom Corridors & Upper Floor Elevator Lobbies",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6403,12 +6807,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "WC-11",
     "description": "Main/Typ. Public Area Wallcovering and Meeting Room Wallcovering + Meeting\nRooms Air Walls",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6432,12 +6838,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "WC-12",
     "description": "Accent Wallcovering at Lobby/Breakfast (Columns/Bumpouts/Front Desk)",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6461,12 +6869,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "WC-13",
     "description": "Wallcovering at Retail \"Treat Shop\" and Public Restrooms",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6490,12 +6900,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "WC-14",
     "description": "Accent Wallcovering at 1st FL Elevator Lobby & Garage Vestibule Lobby",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6519,12 +6931,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "WC-15",
     "description": "Accent Wallcovering at Pantry & Meeting Room Millwork Niches",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6548,12 +6962,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Meeting Rooms"
   },
   {
     "spec": "WC-17",
     "description": "Main Wallcovering at Pantry",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6577,12 +6993,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "WC-18",
     "description": "Wallcovering at Guest Laundry",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6606,12 +7024,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Back of House"
   },
   {
     "spec": "WC-19",
     "description": "Main Wallcovering at Fitness (2 of 4 walls)",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6635,12 +7055,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "WC-20",
     "description": "Accent Wallcovering at Fitness Center",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6664,12 +7086,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "WC-50",
     "description": "Digital Mural Feature at Fitness Center - Wall Dimensions: 27'4\"W x 9'H",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6693,12 +7117,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "WC-51CSTM",
     "description": "Custom Digital Mural Feature Wall for Lobby - 7'9\"W x 9'H",
-    "category": "FINISHES",
+    "category": "Wallpaper / Wallcovering",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6722,12 +7148,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "WP-10",
     "description": "Main/Typ. Public Space Corner Guards - 1.5\"wings x 12'H - Color: Gala - installed\nwith WC-11, WC-17, WC-18",
-    "category": "FINISHES",
+    "category": "Wall Protection",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6751,12 +7179,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "WP-11",
     "description": "Pantry Accent/Entrance Corner Guards - 1.5\"wings x 12'H - Color: Beeswax - USED\nWITH WC-15 ONLY",
-    "category": "FINISHES",
+    "category": "Wall Protection",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6780,12 +7210,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "WP-12",
     "description": "Corridor/Elevator Lobby Corner Guards (installed with WC-10 & WC-14) - 1.5\"wings\nx 9'H - Color: Gala",
-    "category": "FINISHES",
+    "category": "Wall Protection",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6809,12 +7241,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "WP-13",
     "description": "Corner Guard used with WC-12 Accent at Breakfast/Lobby - 1.5\"wings x 12'H - Elm\nGray Color",
-    "category": "FINISHES",
+    "category": "Wall Protection",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6838,12 +7272,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Lobby & Breakfast"
   },
   {
     "spec": "WP-14",
     "description": "Cornerguards at Retail and Public Restrooms (with WC-13) - 1.5\"wings x 9'H - Color:\nCadet Blue",
-    "category": "FINISHES",
+    "category": "Wall Protection",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6867,12 +7303,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "WP-16",
     "description": "Cornerguard at Fitness (with WC-20) - 1.5\"wings x 9'H - Color: Blue Mist",
-    "category": "FINISHES",
+    "category": "Wall Protection",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6896,12 +7334,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "WP-14-CSTM",
     "description": "Chair Rail at Corridors - 4\"H, TA5 Colonial Gray Color",
-    "category": "FINISHES",
+    "category": "Wall Protection",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6925,12 +7365,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Circulation"
   },
   {
     "spec": "TA-23",
     "description": "Hooks at Public Restroom Stall Doors and Fitness",
-    "category": "FINISHES",
+    "category": "Toilet Accessories",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6954,12 +7396,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "TA-19/TA-20",
     "description": "Surface-Mounted Baby Changing Station at Public Restrooms, Toilet Seat Cover\nDispenser (surface mounted) - BY GC",
-    "category": "FINISHES",
+    "category": "Toilet Accessories",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -6983,12 +7427,14 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
   },
   {
     "spec": "TP-01",
     "description": "Toilet Partitions - BY GC",
-    "category": "FINISHES",
+    "category": "Tile",
     "section_note": "QTYS are Estimated and Must be Verified by GC prior to Ordering",
     "area": "Public Areas",
     "room_type_quantities": null,
@@ -7012,6 +7458,75 @@
     "storage_location": "",
     "link": "",
     "image_urls": [],
-    "tags": []
+    "tags": [],
+    "section": "FINISHES",
+    "zone": "Public Spaces"
+  },
+  {
+    "spec": "MISC-ADH-CG",
+    "description": "Adhesive for Corner Guards Installation",
+    "section": "Install Matrix note line",
+    "section_note": null,
+    "area": "Shared",
+    "zone": "Public Spaces",
+    "category": "Construction Consumables",
+    "room_type_quantities": null,
+    "attic_stock": null,
+    "total": 55.0,
+    "uom": "EA",
+    "notes": "QTY COVERS PUBLIC SPACE CORNERGUARDS",
+    "source_page": 4,
+    "item_id": "MISC-ADH-CG-01-p04",
+    "vendor": "",
+    "model": "",
+    "part_number": "",
+    "unit_cost": "",
+    "warranty_months": "",
+    "warranty_start": "",
+    "warranty_end": "",
+    "installed_date": "",
+    "last_replaced": "",
+    "on_hand": "",
+    "min_on_hand": "",
+    "storage_location": "",
+    "link": "",
+    "image_urls": [],
+    "tags": [
+      "consumable"
+    ]
+  },
+  {
+    "spec": "EXISTING-ART-PUBREST",
+    "description": "Artwork at Public Restrooms - EXISTING ARTWORK WILL BE RE-USED",
+    "section": "PUBLIC RESTROOMS (note)",
+    "section_note": null,
+    "area": "Public Areas",
+    "zone": "Public Spaces",
+    "category": "Artwork / Mirrors",
+    "room_type_quantities": null,
+    "attic_stock": null,
+    "total": null,
+    "uom": "",
+    "notes": "Existing item \u2013 reuse (not a new purchase).",
+    "source_page": 6,
+    "item_id": "EXISTING-ART-PUBREST-01-p06",
+    "vendor": "",
+    "model": "",
+    "part_number": "",
+    "unit_cost": "",
+    "warranty_months": "",
+    "warranty_start": "",
+    "warranty_end": "",
+    "installed_date": "",
+    "last_replaced": "",
+    "on_hand": "",
+    "min_on_hand": "",
+    "storage_location": "",
+    "link": "",
+    "image_urls": [],
+    "tags": [
+      "existing",
+      "reuse"
+    ]
   }
 ]

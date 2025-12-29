@@ -71,6 +71,7 @@ function globalSearchFilter(data, searchText){
   const q = (searchText || "").toLowerCase().trim();
   if(!q) return true;
   const hay = [
+    data.area, data.zone, data.category, data.section,
     data.spec, data.description, data.notes, data.vendor, data.model, data.part_number,
     Array.isArray(data.tags) ? data.tags.join(" ") : "",
   ].join(" ").toLowerCase();
@@ -79,31 +80,40 @@ function globalSearchFilter(data, searchText){
 
 function buildFilters(){
   const areas = uniq(items.map(x => x.area)).sort();
-  const cats = uniq(items.map(x => x.category)).sort();
+  const zones = uniq(items.map(x => x.zone)).sort();
+  const types = uniq(items.map(x => x.category)).sort();
 
   const areaSel = document.getElementById("areaFilter");
-  const catSel  = document.getElementById("categoryFilter");
+  const zoneSel = document.getElementById("zoneFilter");
+  const typeSel = document.getElementById("typeFilter");
 
   for(const a of areas){
     const opt = document.createElement("option");
     opt.value = a; opt.textContent = a;
     areaSel.appendChild(opt);
   }
-  for(const c of cats){
+  for(const z of zones){
     const opt = document.createElement("option");
-    opt.value = c; opt.textContent = c;
-    catSel.appendChild(opt);
+    opt.value = z; opt.textContent = z;
+    zoneSel.appendChild(opt);
+  }
+  for(const t of types){
+    const opt = document.createElement("option");
+    opt.value = t; opt.textContent = t;
+    typeSel.appendChild(opt);
   }
 }
 
 function applyExternalFilters(){
   const searchText = document.getElementById("search").value;
   const area = document.getElementById("areaFilter").value;
-  const cat  = document.getElementById("categoryFilter").value;
+  const zone = document.getElementById("zoneFilter").value;
+  const type = document.getElementById("typeFilter").value;
 
   table.setFilter((data) => {
     if(area && data.area !== area) return false;
-    if(cat && data.category !== cat) return false;
+    if(zone && data.zone !== zone) return false;
+    if(type && data.category !== type) return false;
     return globalSearchFilter(data, searchText);
   });
 }
@@ -116,6 +126,7 @@ function makeNewItem(){
     spec: "",
     description: "",
     area: "Public Areas",
+    zone: "Public Spaces",
     category: "",
     attic_stock: "",
     total: "",
@@ -151,10 +162,11 @@ function initTable(){
     pagination: true,
     paginationSize: 50,
     rowHeight: 48,
-    initialSort: [{column:"area", dir:"asc"}, {column:"category", dir:"asc"}, {column:"spec", dir:"asc"}],
+    initialSort: [{column:"area", dir:"asc"}, {column:"zone", dir:"asc"}, {column:"category", dir:"asc"}, {column:"spec", dir:"asc"}],
     columns: [
-      {title:"Area", field:"area", width:140, headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
-      {title:"Category", field:"category", width:170, headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
+      {title:"Area", field:"area", width:120, headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
+      {title:"Zone", field:"zone", width:160, headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
+      {title:"Type", field:"category", width:170, headerFilter:"list", headerFilterParams:{valuesLookup:true, clearable:true}},
       {title:"Spec", field:"spec", width:110},
       {title:"Description", field:"description", minWidth:340, formatter:"textarea"},
       {title:"Total", field:"total", width:80, hozAlign:"right"},
@@ -192,7 +204,8 @@ function initTable(){
   // external filter controls
   document.getElementById("search").addEventListener("input", applyExternalFilters);
   document.getElementById("areaFilter").addEventListener("change", applyExternalFilters);
-  document.getElementById("categoryFilter").addEventListener("change", applyExternalFilters);
+  document.getElementById("zoneFilter").addEventListener("change", applyExternalFilters);
+  document.getElementById("typeFilter").addEventListener("change", applyExternalFilters);
 
   document.getElementById("saveBtn").addEventListener("click", () => {
     saveEdits();
@@ -301,7 +314,8 @@ function openDetails(data){
   setText("d_desc", data.description || "—");
   setText("d_item_id", data.item_id || "—");
   setText("d_area", data.area || "—");
-  setText("d_category", data.category || "—");
+  setText("d_zone", data.zone || "—");
+  setText("d_type", data.category || "—");
   setText("d_total", data.total ?? "—");
   setText("d_uom", data.uom || "—");
   setText("d_attic", data.attic_stock ?? "—");
