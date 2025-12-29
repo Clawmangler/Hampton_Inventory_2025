@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Hotel Remodel Inventory (Install Matrix)</title>
+
+  <!-- Tabulator (MIT) -->
+  <link href="https://cdn.jsdelivr.net/npm/tabulator-tables@6.3.0/dist/css/tabulator.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="title">
+      <h1>Hotel Remodel Inventory</h1>
+      <div class="subtitle">Install Matrix → searchable / filterable master list</div>
+    </div>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search spec, description, notes, vendor, tags…" />
+      <select id="areaFilter">
+        <option value="">All areas</option>
+      </select>
+      <select id="categoryFilter">
+        <option value="">All categories</option>
+      </select>
+      <button id="addItemBtn" class="btn">+ Add Item</button>
+    </div>
+
+    <div class="actions">
+      <button id="saveBtn" class="btn">Save (local)</button>
+      <button id="exportBtn" class="btn">Export updates</button>
+      <label class="btn file">
+        Import updates <input id="importFile" type="file" accept="application/json" />
+      </label>
+      <button id="clearBtn" class="btn danger">Clear local edits</button>
+      <button id="csvBtn" class="btn">Download CSV</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="tableWrap">
+      <div id="inventoryTable"></div>
+      <div class="hint">
+        Tip: click a row for details; edit fields like <b>On‑hand</b>, <b>Warranty</b>, <b>Vendor</b>, etc.
+      </div>
+    </section>
+
+    <aside class="details" id="detailsPanel">
+      <div class="detailsHeader">
+        <div>
+          <div class="detailsSpec" id="d_spec">—</div>
+          <div class="detailsDesc" id="d_desc">Select an item to see details</div>
+        </div>
+        <button id="closeDetails" class="btn small">Close</button>
+      </div>
+
+      <div class="detailsBody">
+        <div class="grid">
+          <div class="field"><label>Item ID</label><div id="d_item_id" class="mono">—</div></div>
+          <div class="field"><label>Area</label><div id="d_area">—</div></div>
+          <div class="field"><label>Category</label><div id="d_category">—</div></div>
+          <div class="field"><label>Total Qty</label><div id="d_total">—</div></div>
+          <div class="field"><label>UoM</label><div id="d_uom">—</div></div>
+          <div class="field"><label>Attic Stock</label><div id="d_attic">—</div></div>
+        </div>
+
+        <div class="grid">
+          <div class="field"><label>Vendor</label><input id="d_vendor" /></div>
+          <div class="field"><label>Model</label><input id="d_model" /></div>
+          <div class="field"><label>Part #</label><input id="d_part" /></div>
+          <div class="field"><label>Unit Cost</label><input id="d_cost" placeholder="e.g. 129.99" /></div>
+        </div>
+
+        <div class="grid">
+          <div class="field"><label>On‑hand</label><input id="d_onhand" placeholder="e.g. 3" /></div>
+          <div class="field"><label>Min on‑hand</label><input id="d_min" placeholder="e.g. 1" /></div>
+          <div class="field"><label>Storage Location</label><input id="d_storage" placeholder="e.g. attic / shop / cage" /></div>
+        </div>
+
+        <div class="grid">
+          <div class="field"><label>Warranty (months)</label><input id="d_wm" placeholder="e.g. 12" /></div>
+          <div class="field"><label>Warranty start</label><input id="d_ws" type="date" /></div>
+          <div class="field"><label>Warranty end</label><input id="d_we" type="date" /></div>
+          <div class="field"><label>Installed date</label><input id="d_installed" type="date" /></div>
+          <div class="field"><label>Last replaced</label><input id="d_last" type="date" /></div>
+        </div>
+
+        <div class="field">
+          <label>Link</label>
+          <input id="d_link" placeholder="https://…" />
+          <div id="d_link_preview" class="linkPreview"></div>
+        </div>
+
+        <div class="field">
+          <label>Notes</label>
+          <div id="d_notes" class="notesBox">—</div>
+        </div>
+
+        <div class="field">
+          <label>Room-type quantities</label>
+          <div id="d_roomtypes" class="mono smallText">—</div>
+        </div>
+
+        <div class="field">
+          <label>Images</label>
+          <div class="imgTools">
+            <input id="imgUrl" placeholder="Paste image URL (or later: repo path)" />
+            <button id="addImgBtn" class="btn small">Add</button>
+          </div>
+          <div id="d_images" class="imgGrid"></div>
+        </div>
+
+        <div class="field">
+          <label>Tags</label>
+          <div class="tagTools">
+            <input id="tagText" placeholder="e.g. lamp, wall-sconce, LED" />
+            <button id="addTagBtn" class="btn small">Add</button>
+          </div>
+          <div id="d_tags" class="tags"></div>
+        </div>
+
+        <div class="field">
+          <button id="applyDetailsBtn" class="btn primary">Apply changes to this item</button>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/tabulator-tables@6.3.0/dist/js/tabulator.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ID-400",
+    "label": "KING ID-400",
+    "name": "KING"
+  },
+  {
+    "id": "ID-401",
+    "label": "KING EXT ID-401",
+    "name": "KING EXT"
+  },
+  {
+    "id": "ID-410",
+    "label": "ADA KING (Tub) ID- 410",
+    "name": "ADA KING (Tub)"
+  },
+  {
+    "id": "ID-405",
+    "label": "KING STUDIO 1 (KS1) ID-405",
+    "name": "KING STUDIO 1 (KS1)"
+  },
+  {
+    "id": "ID-409",
+    "label": "KING STUDIO 2 (KS2) ID-409",
+    "name": "KING STUDIO 2 (KS2)"
+  },
+  {
+    "id": "ID-407",
+    "label": "KING STUDIO 3 (KS3) ID-407",
+    "name": "KING STUDIO 3 (KS3)"
+  },
+  {
+    "id": "ID-408",
+    "label": "KING STUDIO 4 (KS4) ID-408",
+    "name": "KING STUDIO 4 (KS4)"
+  },
+  {
+    "id": "ID-412",
+    "label": "ADA KING STUDIO (RIS) ID-412",
+    "name": "ADA KING STUDIO (RIS)"
+  },
+  {
+    "id": "ID-402",
+    "label": "QQ 1 ID-402",
+    "name": "QQ 1"
+  },
+  {
+    "id": "ID-403",
+    "label": "QQ 2 ID-403",
+    "name": "QQ 2"
+  },
+  {
+    "id": "ID-404",
+    "label": "QQ 3 RM#508 ID-404",
+    "name": "QQ 3 RM#508"
+  },
+  {
+    "id": "ID-406",
+    "label": "QQ STUDIO (QQS) ID- 406",
+    "name": "QQ STUDIO (QQS)"
+  },
+  {
+    "id": "ID-411",
+    "label": "ADA QQ (Tub) ID- 411",
+    "name": "ADA QQ (Tub)"
+  },
+  {
+    "id": "ID-413",
+    "label": "ADA QQ STUDIO (RIS) ID- 413",
+    "name": "ADA QQ STUDIO (RIS)"
+  }
+]
