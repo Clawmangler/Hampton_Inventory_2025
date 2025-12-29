@@ -78,6 +78,20 @@ function globalSearchFilter(data, searchText){
   return hay.includes(q);
 }
 
+function ensureEl(id, tagName = "div", parentSelector = "body"){
+  let el = document.getElementById(id);
+  if(el) return el;
+
+  const parent = document.querySelector(parentSelector);
+  if(!parent) throw new Error(`ensureEl: parent not found: ${parentSelector}`);
+
+  el = document.createElement(tagName);
+  el.id = id;
+  parent.appendChild(el);
+  return el;
+}
+
+
 function buildFilters(){
   const areas = uniq(items.map(x => x.area)).sort();
   const zones = uniq(items.map(x => x.zone)).sort();
